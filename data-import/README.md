@@ -21,3 +21,10 @@ Download session-*.xml from `http://www.parl.gc.ca/HouseChamberBusiness/ChamberV
 ```
 bundle exec download-vote-xml.rb data/session-*.xml
 ```
+
+Generate JSON
+=============
+
+```
+bundle exec ./xml2json.rb data/session*.xml > data/votes.json
+```
