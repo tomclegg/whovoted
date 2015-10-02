@@ -1,0 +1,3562 @@
+<?xml version='1.0' encoding='utf-8'?><!--
+      ============================================================================================
+      
+        House of Commons - Canada
+        - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        The data contained in this document is provided in a standard XML format. Once imported into a spreadsheet
+        or database tool of your choice, the data can be filtered and sorted to create customized reports.
+        Please refer to the instructions within the tool of your choice to find out how to import external data.
+
+        For information about the disclaimer of liability:
+        http://www2.parl.gc.ca/HouseChamberBusiness/ChamberDisclaimer.aspx?Language=E
+
+      
+      ============================================================================================
+    -->
+<Vote schemaVersion="1.0">
+  <Context>
+    <Para>That the Bill be referred forthwith to  a legislative committee.</Para>
+  </Context>
+  <Sponsor>Mr. Van Loan (Leader of the Government in the House of Commons and Minister for Democratic Reform)</Sponsor>
+  <Decision>Agreed To</Decision>
+  <RelatedBill number="C-20">
+    <Title>An Act to provide for consultations with electors on their preferences for appointments to the Senate</Title>
+  </RelatedBill>
+  <Participant>
+    <Name>Mr. Steven Fletcher</Name>
+    <FirstName>Steven</FirstName>
+    <LastName>Fletcher</LastName>
+    <Constituency>Charleswood—St. James—Assiniboia</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. James Moore</Name>
+    <FirstName>James</FirstName>
+    <LastName>Moore</LastName>
+    <Constituency>Port Moody—Westwood—Port Coquitlam</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John Cummins</Name>
+    <FirstName>John</FirstName>
+    <LastName>Cummins</LastName>
+    <Constituency>Delta—Richmond East</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Lee Richardson</Name>
+    <FirstName>Lee</FirstName>
+    <LastName>Richardson</LastName>
+    <Constituency>Calgary Centre</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Michael Chong</Name>
+    <FirstName>Michael</FirstName>
+    <LastName>Chong</LastName>
+    <Constituency>Wellington—Halton Hills</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jim Abbott</Name>
+    <FirstName>Jim</FirstName>
+    <LastName>Abbott</LastName>
+    <Constituency>Kootenay—Columbia</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Betty Hinton</Name>
+    <FirstName>Betty</FirstName>
+    <LastName>Hinton</LastName>
+    <Constituency>Kamloops—Thompson—Cariboo</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rob Moore</Name>
+    <FirstName>Rob</FirstName>
+    <LastName>Moore</LastName>
+    <Constituency>Fundy Royal</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jason Kenney</Name>
+    <FirstName>Jason</FirstName>
+    <LastName>Kenney</LastName>
+    <Constituency>Calgary Southeast</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John Baird</Name>
+    <FirstName>John</FirstName>
+    <LastName>Baird</LastName>
+    <Constituency>Ottawa West—Nepean</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jean-Pierre Blackburn</Name>
+    <FirstName>Jean-Pierre</FirstName>
+    <LastName>Blackburn</LastName>
+    <Constituency>Jonquière—Alma</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Senator Josée Verner</Name>
+    <FirstName>Josée</FirstName>
+    <LastName>Verner</LastName>
+    <Constituency>Louis-Saint-Laurent</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Peter Van Loan</Name>
+    <FirstName>Peter</FirstName>
+    <LastName>Van Loan</LastName>
+    <Constituency>York—Simcoe</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jay Hill</Name>
+    <FirstName>Jay</FirstName>
+    <LastName>Hill</LastName>
+    <Constituency>Prince George—Peace River</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Rona Ambrose</Name>
+    <FirstName>Rona</FirstName>
+    <LastName>Ambrose</LastName>
+    <Constituency>Edmonton—Spruce Grove</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Diane Finley</Name>
+    <FirstName>Diane</FirstName>
+    <LastName>Finley</LastName>
+    <Constituency>Haldimand—Norfolk</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Diane Ablonczy</Name>
+    <FirstName>Diane</FirstName>
+    <LastName>Ablonczy</LastName>
+    <Constituency>Calgary—Nose Hill</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Helena Guergis</Name>
+    <FirstName>Helena</FirstName>
+    <LastName>Guergis</LastName>
+    <Constituency>Simcoe—Grey</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Guy Lauzon</Name>
+    <FirstName>Guy</FirstName>
+    <LastName>Lauzon</LastName>
+    <Constituency>Stormont—Dundas—South Glengarry</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Randy Kamp</Name>
+    <FirstName>Randy</FirstName>
+    <LastName>Kamp</LastName>
+    <Constituency>Pitt Meadows—Maple Ridge—Mission</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. David Anderson</Name>
+    <FirstName>David</FirstName>
+    <LastName>Anderson</LastName>
+    <Constituency>Cypress Hills—Grasslands</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Deepak Obhrai</Name>
+    <FirstName>Deepak</FirstName>
+    <LastName>Obhrai</LastName>
+    <Constituency>Calgary East</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Leon Benoit</Name>
+    <FirstName>Leon</FirstName>
+    <LastName>Benoit</LastName>
+    <Constituency>Vegreville—Wainwright</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Garry Breitkreuz</Name>
+    <FirstName>Garry</FirstName>
+    <LastName>Breitkreuz</LastName>
+    <Constituency>Yorkton—Melville</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Richard Harris</Name>
+    <FirstName>Richard</FirstName>
+    <LastName>Harris</LastName>
+    <Constituency>Cariboo—Prince George</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bob Mills</Name>
+    <FirstName>Bob</FirstName>
+    <LastName>Mills</LastName>
+    <Constituency>Red Deer</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Myron Thompson</Name>
+    <FirstName>Myron</FirstName>
+    <LastName>Thompson</LastName>
+    <Constituency>Wild Rose</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John G. Williams</Name>
+    <FirstName>John G.</FirstName>
+    <LastName>Williams</LastName>
+    <Constituency>Edmonton—St. Albert</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Pierre Poilievre</Name>
+    <FirstName>Pierre</FirstName>
+    <LastName>Poilievre</LastName>
+    <Constituency>Nepean—Carleton</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Colin Carrie</Name>
+    <FirstName>Colin</FirstName>
+    <LastName>Carrie</LastName>
+    <Constituency>Oshawa</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dave MacKenzie</Name>
+    <FirstName>Dave</FirstName>
+    <LastName>MacKenzie</LastName>
+    <Constituency>Oxford</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mark Warawa</Name>
+    <FirstName>Mark</FirstName>
+    <LastName>Warawa</LastName>
+    <Constituency>Langley</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Laurie Hawn</Name>
+    <FirstName>Laurie</FirstName>
+    <LastName>Hawn</LastName>
+    <Constituency>Edmonton Centre</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jacques Gourde</Name>
+    <FirstName>Jacques</FirstName>
+    <LastName>Gourde</LastName>
+    <Constituency>Lotbinière—Chutes-de-la-Chaudière</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Sylvie Boucher</Name>
+    <FirstName>Sylvie</FirstName>
+    <LastName>Boucher</LastName>
+    <Constituency>Beauport—Limoilou</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Tom Lukiwski</Name>
+    <FirstName>Tom</FirstName>
+    <LastName>Lukiwski</LastName>
+    <Constituency>Regina—Lumsden—Lake Centre</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Pierre Lemieux</Name>
+    <FirstName>Pierre</FirstName>
+    <LastName>Lemieux</LastName>
+    <Constituency>Glengarry—Prescott—Russell</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Scott Reid</Name>
+    <FirstName>Scott</FirstName>
+    <LastName>Reid</LastName>
+    <Constituency>Lanark—Frontenac—Lennox and Addington</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ted Menzies</Name>
+    <FirstName>Ted</FirstName>
+    <LastName>Menzies</LastName>
+    <Constituency>Macleod</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rod Bruinooge</Name>
+    <FirstName>Rod</FirstName>
+    <LastName>Bruinooge</LastName>
+    <Constituency>Winnipeg South</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Lynne Yelich</Name>
+    <FirstName>Lynne</FirstName>
+    <LastName>Yelich</LastName>
+    <Constituency>Blackstrap</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ed Komarnicki</Name>
+    <FirstName>Ed</FirstName>
+    <LastName>Komarnicki</LastName>
+    <Constituency>Souris—Moose Mountain</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brian Jean</Name>
+    <FirstName>Brian</FirstName>
+    <LastName>Jean</LastName>
+    <Constituency>Fort McMurray—Athabasca</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gerald Keddy</Name>
+    <FirstName>Gerald</FirstName>
+    <LastName>Keddy</LastName>
+    <Constituency>South Shore—St. Margaret's</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Russ Hiebert</Name>
+    <FirstName>Russ</FirstName>
+    <LastName>Hiebert</LastName>
+    <Constituency>South Surrey—White Rock—Cloverdale</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rob Anders</Name>
+    <FirstName>Rob</FirstName>
+    <LastName>Anders</LastName>
+    <Constituency>Calgary West</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rick Casson</Name>
+    <FirstName>Rick</FirstName>
+    <LastName>Casson</LastName>
+    <Constituency>Lethbridge</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Senator Norman E. Doyle</Name>
+    <FirstName>Norman E.</FirstName>
+    <LastName>Doyle</LastName>
+    <Constituency>St. John's East</Constituency>
+    <Province code="NL">Newfoundland and Labrador</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Royal Galipeau</Name>
+    <FirstName>Royal</FirstName>
+    <LastName>Galipeau</LastName>
+    <Constituency>Ottawa—Orléans</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brian Fitzpatrick</Name>
+    <FirstName>Brian</FirstName>
+    <LastName>Fitzpatrick</LastName>
+    <Constituency>Prince Albert</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Cheryl Gallant</Name>
+    <FirstName>Cheryl</FirstName>
+    <LastName>Gallant</LastName>
+    <Constituency>Renfrew—Nipissing—Pembroke</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Peter Goldring</Name>
+    <FirstName>Peter</FirstName>
+    <LastName>Goldring</LastName>
+    <Constituency>Edmonton East</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. James Lunney</Name>
+    <FirstName>James</FirstName>
+    <LastName>Lunney</LastName>
+    <Constituency>Nanaimo—Alberni</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Inky Mark</Name>
+    <FirstName>Inky</FirstName>
+    <LastName>Mark</LastName>
+    <Constituency>Dauphin—Swan River—Marquette</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rob Merrifield</Name>
+    <FirstName>Rob</FirstName>
+    <LastName>Merrifield</LastName>
+    <Constituency>Yellowhead</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. James Rajotte</Name>
+    <FirstName>James</FirstName>
+    <LastName>Rajotte</LastName>
+    <Constituency>Edmonton—Leduc</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Kevin Sorenson</Name>
+    <FirstName>Kevin</FirstName>
+    <LastName>Sorenson</LastName>
+    <Constituency>Crowfoot</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Maurice Vellacott</Name>
+    <FirstName>Maurice</FirstName>
+    <LastName>Vellacott</LastName>
+    <Constituency>Saskatoon—Wanuskewin</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gary Schellenberger</Name>
+    <FirstName>Gary</FirstName>
+    <LastName>Schellenberger</LastName>
+    <Constituency>Perth—Wellington</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dean Allison</Name>
+    <FirstName>Dean</FirstName>
+    <LastName>Allison</LastName>
+    <Constituency>Niagara West—Glanbrook</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rahim Jaffer</Name>
+    <FirstName>Rahim</FirstName>
+    <LastName>Jaffer</LastName>
+    <Constituency>Edmonton—Strathcona</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dave Batters</Name>
+    <FirstName>Dave</FirstName>
+    <LastName>Batters</LastName>
+    <Constituency>Palliser</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. James Bezan</Name>
+    <FirstName>James</FirstName>
+    <LastName>Bezan</LastName>
+    <Constituency>Selkirk—Interlake</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gordon Brown</Name>
+    <FirstName>Gordon</FirstName>
+    <LastName>Brown</LastName>
+    <Constituency>Leeds—Grenville</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Barry Devolin</Name>
+    <FirstName>Barry</FirstName>
+    <LastName>Devolin</LastName>
+    <Constituency>Haliburton—Kawartha Lakes—Brock</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gary Goodyear</Name>
+    <FirstName>Gary</FirstName>
+    <LastName>Goodyear</LastName>
+    <Constituency>Cambridge</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Wajid Khan</Name>
+    <FirstName>Wajid</FirstName>
+    <LastName>Khan</LastName>
+    <Constituency>Mississauga—Streetsville</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Daryl Kramp</Name>
+    <FirstName>Daryl</FirstName>
+    <LastName>Kramp</LastName>
+    <Constituency>Prince Edward—Hastings</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Larry Miller</Name>
+    <FirstName>Larry</FirstName>
+    <LastName>Miller</LastName>
+    <Constituency>Bruce—Grey—Owen Sound</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Joe Preston</Name>
+    <FirstName>Joe</FirstName>
+    <LastName>Preston</LastName>
+    <Constituency>Elgin—Middlesex—London</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Nina Grewal</Name>
+    <FirstName>Nina</FirstName>
+    <LastName>Grewal</LastName>
+    <Constituency>Fleetwood—Port Kells</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Joy Smith</Name>
+    <FirstName>Joy</FirstName>
+    <LastName>Smith</LastName>
+    <Constituency>Kildonan—St. Paul</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. David Tilson</Name>
+    <FirstName>David</FirstName>
+    <LastName>Tilson</LastName>
+    <Constituency>Dufferin—Caledon</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Andrew Scheer</Name>
+    <FirstName>Andrew</FirstName>
+    <LastName>Scheer</LastName>
+    <Constituency>Regina—Qu'Appelle</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Harold Albrecht</Name>
+    <FirstName>Harold</FirstName>
+    <LastName>Albrecht</LastName>
+    <Constituency>Kitchener—Conestoga</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mike Allen</Name>
+    <FirstName>Mike</FirstName>
+    <LastName>Allen</LastName>
+    <Constituency>Tobique—Mactaquac</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Patrick Brown</Name>
+    <FirstName>Patrick</FirstName>
+    <LastName>Brown</LastName>
+    <Constituency>Barrie</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Blaine Calkins</Name>
+    <FirstName>Blaine</FirstName>
+    <LastName>Calkins</LastName>
+    <Constituency>Wetaskiwin</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ron Cannan</Name>
+    <FirstName>Ron</FirstName>
+    <LastName>Cannan</LastName>
+    <Constituency>Kelowna—Lake Country</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Patricia Davidson</Name>
+    <FirstName>Patricia</FirstName>
+    <LastName>Davidson</LastName>
+    <Constituency>Sarnia—Lambton</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Fabian Manning</Name>
+    <FirstName>Fabian</FirstName>
+    <LastName>Manning</LastName>
+    <Constituency>Avalon</Constituency>
+    <Province code="NL">Newfoundland and Labrador</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Colin Mayes</Name>
+    <FirstName>Colin</FirstName>
+    <LastName>Mayes</LastName>
+    <Constituency>Okanagan—Shuswap</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rick Norlock</Name>
+    <FirstName>Rick</FirstName>
+    <LastName>Norlock</LastName>
+    <Constituency>Northumberland—Quinte West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Daniel Petit</Name>
+    <FirstName>Daniel</FirstName>
+    <LastName>Petit</LastName>
+    <Constituency>Charlesbourg—Haute-Saint-Charles</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bev Shipley</Name>
+    <FirstName>Bev</FirstName>
+    <LastName>Shipley</LastName>
+    <Constituency>Lambton—Kent—Middlesex</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ken Epp</Name>
+    <FirstName>Ken</FirstName>
+    <LastName>Epp</LastName>
+    <Constituency>Edmonton—Sherwood Park</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bruce Stanton</Name>
+    <FirstName>Bruce</FirstName>
+    <LastName>Stanton</LastName>
+    <Constituency>Simcoe North</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brian Storseth</Name>
+    <FirstName>Brian</FirstName>
+    <LastName>Storseth</LastName>
+    <Constituency>Westlock—St. Paul</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. David Sweet</Name>
+    <FirstName>David</FirstName>
+    <LastName>Sweet</LastName>
+    <Constituency>Ancaster—Dundas—Flamborough—Westdale</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dave Van Kesteren</Name>
+    <FirstName>Dave</FirstName>
+    <LastName>Van Kesteren</LastName>
+    <Constituency>Chatham-Kent—Essex</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mike Wallace</Name>
+    <FirstName>Mike</FirstName>
+    <LastName>Wallace</LastName>
+    <Constituency>Burlington</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Chris Warkentin</Name>
+    <FirstName>Chris</FirstName>
+    <LastName>Warkentin</LastName>
+    <Constituency>Peace River</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jeff Watson</Name>
+    <FirstName>Jeff</FirstName>
+    <LastName>Watson</LastName>
+    <Constituency>Essex</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brad Trost</Name>
+    <FirstName>Brad</FirstName>
+    <LastName>Trost</LastName>
+    <Constituency>Saskatoon—Humboldt</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Merv Tweed</Name>
+    <FirstName>Merv</FirstName>
+    <LastName>Tweed</LastName>
+    <Constituency>Brandon—Souris</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Denis Lebel</Name>
+    <FirstName>Denis</FirstName>
+    <LastName>Lebel</LastName>
+    <Constituency>Roberval—Lac-Saint-Jean</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Steven Blaney</Name>
+    <FirstName>Steven</FirstName>
+    <LastName>Blaney</LastName>
+    <Constituency>Lévis—Bellechasse</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dean Del Mastro</Name>
+    <FirstName>Dean</FirstName>
+    <LastName>Del Mastro</LastName>
+    <Constituency>Peterborough</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rick Dykstra</Name>
+    <FirstName>Rick</FirstName>
+    <LastName>Dykstra</LastName>
+    <Constituency>St. Catharines</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ed Fast</Name>
+    <FirstName>Ed</FirstName>
+    <LastName>Fast</LastName>
+    <Constituency>Abbotsford</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Luc Harvey</Name>
+    <FirstName>Luc</FirstName>
+    <LastName>Harvey</LastName>
+    <Constituency>Louis-Hébert</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mike Lake</Name>
+    <FirstName>Mike</FirstName>
+    <LastName>Lake</LastName>
+    <Constituency>Edmonton—Mill Woods—Beaumont</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Stéphane Dion</Name>
+    <FirstName>Stéphane</FirstName>
+    <LastName>Dion</LastName>
+    <Constituency>Saint-Laurent—Cartierville</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Maurizio Bevilacqua</Name>
+    <FirstName>Maurizio</FirstName>
+    <LastName>Bevilacqua</LastName>
+    <Constituency>Vaughan</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Hedy Fry</Name>
+    <FirstName>Hedy</FirstName>
+    <LastName>Fry</LastName>
+    <Constituency>Vancouver Centre</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ken Dryden</Name>
+    <FirstName>Ken</FirstName>
+    <LastName>Dryden</LastName>
+    <Constituency>York Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Lawrence MacAulay</Name>
+    <FirstName>Lawrence</FirstName>
+    <LastName>MacAulay</LastName>
+    <Constituency>Cardigan</Constituency>
+    <Province code="PE">Prince Edward Island</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Michael Ignatieff</Name>
+    <FirstName>Michael</FirstName>
+    <LastName>Ignatieff</LastName>
+    <Constituency>Etobicoke—Lakeshore</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Diane Marleau</Name>
+    <FirstName>Diane</FirstName>
+    <LastName>Marleau</LastName>
+    <Constituency>Sudbury</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Wayne Easter</Name>
+    <FirstName>Wayne</FirstName>
+    <LastName>Easter</LastName>
+    <Constituency>Malpeque</Constituency>
+    <Province code="PE">Prince Edward Island</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John Godfrey</Name>
+    <FirstName>John</FirstName>
+    <LastName>Godfrey</LastName>
+    <Constituency>Don Valley West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Maria Minna</Name>
+    <FirstName>Maria</FirstName>
+    <LastName>Minna</LastName>
+    <Constituency>Beaches—East York</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Geoff Regan</Name>
+    <FirstName>Geoff</FirstName>
+    <LastName>Regan</LastName>
+    <Constituency>Halifax West</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Andy Scott</Name>
+    <FirstName>Andy</FirstName>
+    <LastName>Scott</LastName>
+    <Constituency>Fredericton</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Derek Lee</Name>
+    <FirstName>Derek</FirstName>
+    <LastName>Lee</LastName>
+    <Constituency>Scarborough—Rouge River</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gerry Byrne</Name>
+    <FirstName>Gerry</FirstName>
+    <LastName>Byrne</LastName>
+    <Constituency>Humber—St. Barbe—Baie Verte</Constituency>
+    <Province code="NL">Newfoundland and Labrador</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Raymond Chan</Name>
+    <FirstName>Raymond</FirstName>
+    <LastName>Chan</LastName>
+    <Constituency>Richmond</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Denis Coderre</Name>
+    <FirstName>Denis</FirstName>
+    <LastName>Coderre</LastName>
+    <Constituency>Bourassa</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Irwin Cotler</Name>
+    <FirstName>Irwin</FirstName>
+    <LastName>Cotler</LastName>
+    <Constituency>Mount Royal</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John McCallum</Name>
+    <FirstName>John</FirstName>
+    <LastName>McCallum</LastName>
+    <Constituency>Markham—Unionville</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Robert Thibault</Name>
+    <FirstName>Robert</FirstName>
+    <LastName>Thibault</LastName>
+    <Constituency>West Nova</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Scott Brison</Name>
+    <FirstName>Scott</FirstName>
+    <LastName>Brison</LastName>
+    <Constituency>Kings—Hants</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Garth Turner</Name>
+    <FirstName>Garth</FirstName>
+    <LastName>Turner</LastName>
+    <Constituency>Halton</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Judy Sgro</Name>
+    <FirstName>Judy</FirstName>
+    <LastName>Sgro</LastName>
+    <Constituency>York West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Marlene Jennings</Name>
+    <FirstName>Marlene</FirstName>
+    <LastName>Jennings</LastName>
+    <Constituency>Notre-Dame-de-Grâce—Lachine</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Karen Redman</Name>
+    <FirstName>Karen</FirstName>
+    <LastName>Redman</LastName>
+    <Constituency>Kitchener Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Marcel Proulx</Name>
+    <FirstName>Marcel</FirstName>
+    <LastName>Proulx</LastName>
+    <Constituency>Hull—Aylmer</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Sue Barnes</Name>
+    <FirstName>Sue</FirstName>
+    <LastName>Barnes</LastName>
+    <Constituency>London West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Bonnie Brown</Name>
+    <FirstName>Bonnie</FirstName>
+    <LastName>Brown</LastName>
+    <Constituency>Oakville</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Raymond Bonin</Name>
+    <FirstName>Raymond</FirstName>
+    <LastName>Bonin</LastName>
+    <Constituency>Nickel Belt</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John Cannis</Name>
+    <FirstName>John</FirstName>
+    <LastName>Cannis</LastName>
+    <Constituency>Scarborough Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gurbax Malhi</Name>
+    <FirstName>Gurbax</FirstName>
+    <LastName>Malhi</LastName>
+    <Constituency>Bramalea—Gore—Malton</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John Maloney</Name>
+    <FirstName>John</FirstName>
+    <LastName>Maloney</LastName>
+    <Constituency>Welland</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Paul Steckle</Name>
+    <FirstName>Paul</FirstName>
+    <LastName>Steckle</LastName>
+    <Constituency>Huron—Bruce</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Charles Hubbard</Name>
+    <FirstName>Charles</FirstName>
+    <LastName>Hubbard</LastName>
+    <Constituency>Miramichi</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Keith Martin</Name>
+    <FirstName>Keith</FirstName>
+    <LastName>Martin</LastName>
+    <Constituency>Esquimalt—Juan de Fuca</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bernard Patry</Name>
+    <FirstName>Bernard</FirstName>
+    <LastName>Patry</LastName>
+    <Constituency>Pierrefonds—Dollard</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Colleen Beaumier</Name>
+    <FirstName>Colleen</FirstName>
+    <LastName>Beaumier</LastName>
+    <Constituency>Brampton West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. John McKay</Name>
+    <FirstName>John</FirstName>
+    <LastName>McKay</LastName>
+    <Constituency>Scarborough—Guildwood</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bryon Wilfert</Name>
+    <FirstName>Bryon</FirstName>
+    <LastName>Wilfert</LastName>
+    <Constituency>Richmond Hill</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Anita Neville</Name>
+    <FirstName>Anita</FirstName>
+    <LastName>Neville</LastName>
+    <Constituency>Winnipeg South Centre</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Paul Zed</Name>
+    <FirstName>Paul</FirstName>
+    <LastName>Zed</LastName>
+    <Constituency>Saint John</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Paul Szabo</Name>
+    <FirstName>Paul</FirstName>
+    <LastName>Szabo</LastName>
+    <Constituency>Mississauga South</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Andrew Telegdi</Name>
+    <FirstName>Andrew</FirstName>
+    <LastName>Telegdi</LastName>
+    <Constituency>Kitchener—Waterloo</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Roy Cullen</Name>
+    <FirstName>Roy</FirstName>
+    <LastName>Cullen</LastName>
+    <Constituency>Etobicoke North</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Nancy Karetak-Lindell</Name>
+    <FirstName>Nancy</FirstName>
+    <LastName>Karetak-Lindell</LastName>
+    <Constituency>Nunavut</Constituency>
+    <Province code="NU">Nunavut</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bill Matthews</Name>
+    <FirstName>Bill</FirstName>
+    <LastName>Matthews</LastName>
+    <Constituency>Random—Burin—St. George's</Constituency>
+    <Province code="NL">Newfoundland and Labrador</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Alan Tonks</Name>
+    <FirstName>Alan</FirstName>
+    <LastName>Tonks</LastName>
+    <Constituency>York South—Weston</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Shawn Murphy</Name>
+    <FirstName>Shawn</FirstName>
+    <LastName>Murphy</LastName>
+    <Constituency>Charlottetown</Constituency>
+    <Province code="PE">Prince Edward Island</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Massimo Pacetti</Name>
+    <FirstName>Massimo</FirstName>
+    <LastName>Pacetti</LastName>
+    <Constituency>Saint-Léonard—Saint-Michel</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Larry Bagnell</Name>
+    <FirstName>Larry</FirstName>
+    <LastName>Bagnell</LastName>
+    <Constituency>Yukon</Constituency>
+    <Province code="YT">Yukon</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mark Eyking</Name>
+    <FirstName>Mark</FirstName>
+    <LastName>Eyking</LastName>
+    <Constituency>Sydney—Victoria</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dominic LeBlanc</Name>
+    <FirstName>Dominic</FirstName>
+    <LastName>LeBlanc</LastName>
+    <Constituency>Beauséjour</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Raymond Simard</Name>
+    <FirstName>Raymond</FirstName>
+    <LastName>Simard</LastName>
+    <Constituency>Saint Boniface</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Don Bell</Name>
+    <FirstName>Don</FirstName>
+    <LastName>Bell</LastName>
+    <Constituency>North Vancouver</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Ken Boshcoff</Name>
+    <FirstName>Ken</FirstName>
+    <LastName>Boshcoff</LastName>
+    <Constituency>Thunder Bay—Rainy River</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jean-Claude D'Amours</Name>
+    <FirstName>Jean-Claude</FirstName>
+    <LastName>D'Amours</LastName>
+    <Constituency>Madawaska—Restigouche</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Ruby Dhalla</Name>
+    <FirstName>Ruby</FirstName>
+    <LastName>Dhalla</LastName>
+    <Constituency>Brampton—Springdale</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mark Holland</Name>
+    <FirstName>Mark</FirstName>
+    <LastName>Holland</LastName>
+    <Constituency>Ajax—Pickering</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Susan Kadis</Name>
+    <FirstName>Susan</FirstName>
+    <LastName>Kadis</LastName>
+    <Constituency>Thornhill</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Pablo Rodriguez</Name>
+    <FirstName>Pablo</FirstName>
+    <LastName>Rodriguez</LastName>
+    <Constituency>Honoré-Mercier</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Michael Savage</Name>
+    <FirstName>Michael</FirstName>
+    <LastName>Savage</LastName>
+    <Constituency>Dartmouth—Cole Harbour</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Francis Scarpaleggia</Name>
+    <FirstName>Francis</FirstName>
+    <LastName>Scarpaleggia</LastName>
+    <Constituency>Lac-Saint-Louis</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mario Silva</Name>
+    <FirstName>Mario</FirstName>
+    <LastName>Silva</LastName>
+    <Constituency>Davenport</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rodger Cuzner</Name>
+    <FirstName>Rodger</FirstName>
+    <LastName>Cuzner</LastName>
+    <Constituency>Cape Breton—Canso</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Yasmin Ratansi</Name>
+    <FirstName>Yasmin</FirstName>
+    <LastName>Ratansi</LastName>
+    <Constituency>Don Valley East</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Lloyd St. Amand</Name>
+    <FirstName>Lloyd</FirstName>
+    <LastName>St. Amand</LastName>
+    <Constituency>Brant</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Lui Temelkovski</Name>
+    <FirstName>Lui</FirstName>
+    <LastName>Temelkovski</LastName>
+    <Constituency>Oak Ridges—Markham</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Borys Wrzesnewskyj</Name>
+    <FirstName>Borys</FirstName>
+    <LastName>Wrzesnewskyj</LastName>
+    <Constituency>Etobicoke Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Omar Alghabra</Name>
+    <FirstName>Omar</FirstName>
+    <LastName>Alghabra</LastName>
+    <Constituency>Mississauga—Erindale</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Sukh Dhaliwal</Name>
+    <FirstName>Sukh</FirstName>
+    <LastName>Dhaliwal</LastName>
+    <Constituency>Newton—North Delta</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brian Murphy</Name>
+    <FirstName>Brian</FirstName>
+    <LastName>Murphy</LastName>
+    <Constituency>Moncton—Riverview—Dieppe</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Tina Keeper</Name>
+    <FirstName>Tina</FirstName>
+    <LastName>Keeper</LastName>
+    <Constituency>Churchill</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Glen Pearson</Name>
+    <FirstName>Glen</FirstName>
+    <LastName>Pearson</LastName>
+    <Constituency>London North Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Anthony Rota</Name>
+    <FirstName>Anthony</FirstName>
+    <LastName>Rota</LastName>
+    <Constituency>Nipissing—Timiskaming</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jack Layton</Name>
+    <FirstName>Jack</FirstName>
+    <LastName>Layton</LastName>
+    <Constituency>Toronto—Danforth</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Thomas Mulcair</Name>
+    <FirstName>Thomas</FirstName>
+    <LastName>Mulcair</LastName>
+    <Constituency>Outremont</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Libby Davies</Name>
+    <FirstName>Libby</FirstName>
+    <LastName>Davies</LastName>
+    <Constituency>Vancouver East</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Alexa McDonough</Name>
+    <FirstName>Alexa</FirstName>
+    <LastName>McDonough</LastName>
+    <Constituency>Halifax</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Judy Wasylycia-Leis</Name>
+    <FirstName>Judy</FirstName>
+    <LastName>Wasylycia-Leis</LastName>
+    <Constituency>Winnipeg North</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Pat Martin</Name>
+    <FirstName>Pat</FirstName>
+    <LastName>Martin</LastName>
+    <Constituency>Winnipeg Centre</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Brian Masse</Name>
+    <FirstName>Brian</FirstName>
+    <LastName>Masse</LastName>
+    <Constituency>Windsor West</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Yvon Godin</Name>
+    <FirstName>Yvon</FirstName>
+    <LastName>Godin</LastName>
+    <Constituency>Acadie—Bathurst</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Joe Comartin</Name>
+    <FirstName>Joe</FirstName>
+    <LastName>Comartin</LastName>
+    <Constituency>Windsor—Tecumseh</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Dawn Black</Name>
+    <FirstName>Dawn</FirstName>
+    <LastName>Black</LastName>
+    <Constituency>New Westminster—Coquitlam</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. David Christopherson</Name>
+    <FirstName>David</FirstName>
+    <LastName>Christopherson</LastName>
+    <Constituency>Hamilton Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Tony Martin</Name>
+    <FirstName>Tony</FirstName>
+    <LastName>Martin</LastName>
+    <Constituency>Sault Ste. Marie</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Jean Crowder</Name>
+    <FirstName>Jean</FirstName>
+    <LastName>Crowder</LastName>
+    <Constituency>Nanaimo—Cowichan</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Chris Charlton</Name>
+    <FirstName>Chris</FirstName>
+    <LastName>Charlton</LastName>
+    <Constituency>Hamilton Mountain</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Charlie Angus</Name>
+    <FirstName>Charlie</FirstName>
+    <LastName>Angus</LastName>
+    <Constituency>Timmins—James Bay</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Nathan Cullen</Name>
+    <FirstName>Nathan</FirstName>
+    <LastName>Cullen</LastName>
+    <Constituency>Skeena—Bulkley Valley</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Peter Julian</Name>
+    <FirstName>Peter</FirstName>
+    <LastName>Julian</LastName>
+    <Constituency>Burnaby—New Westminster</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bill Siksay</Name>
+    <FirstName>Bill</FirstName>
+    <LastName>Siksay</LastName>
+    <Constituency>Burnaby—Douglas</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Irene Mathyssen</Name>
+    <FirstName>Irene</FirstName>
+    <LastName>Mathyssen</LastName>
+    <Constituency>London—Fanshawe</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Denise Savoie</Name>
+    <FirstName>Denise</FirstName>
+    <LastName>Savoie</LastName>
+    <Constituency>Victoria</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Catherine Bell</Name>
+    <FirstName>Catherine</FirstName>
+    <LastName>Bell</LastName>
+    <Constituency>Vancouver Island North</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Dennis Bevington</Name>
+    <FirstName>Dennis</FirstName>
+    <LastName>Bevington</LastName>
+    <Constituency>Western Arctic</Constituency>
+    <Province code="NT">Northwest Territories</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Olivia Chow</Name>
+    <FirstName>Olivia</FirstName>
+    <LastName>Chow</LastName>
+    <Constituency>Trinity—Spadina</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Paul Dewar</Name>
+    <FirstName>Paul</FirstName>
+    <LastName>Dewar</LastName>
+    <Constituency>Ottawa Centre</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Wayne Marston</Name>
+    <FirstName>Wayne</FirstName>
+    <LastName>Marston</LastName>
+    <Constituency>Hamilton East—Stoney Creek</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Peggy Nash</Name>
+    <FirstName>Peggy</FirstName>
+    <LastName>Nash</LastName>
+    <Constituency>Parkdale—High Park</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Alex Atamanenko</Name>
+    <FirstName>Alex</FirstName>
+    <LastName>Atamanenko</LastName>
+    <Constituency>British Columbia Southern Interior</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>NDP</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. André Arthur</Name>
+    <FirstName>André</FirstName>
+    <LastName>Arthur</LastName>
+    <Constituency>Portneuf—Jacques-Cartier</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Independent</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gilles Duceppe</Name>
+    <FirstName>Gilles</FirstName>
+    <LastName>Duceppe</LastName>
+    <Constituency>Laurier—Sainte-Marie</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Paul Crête</Name>
+    <FirstName>Paul</FirstName>
+    <LastName>Crête</LastName>
+    <Constituency>Montmagny—L'Islet—Kamouraska—Rivière-du-Loup</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Pierre Paquette</Name>
+    <FirstName>Pierre</FirstName>
+    <LastName>Paquette</LastName>
+    <Constituency>Joliette</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Christiane Gagnon</Name>
+    <FirstName>Christiane</FirstName>
+    <LastName>Gagnon</LastName>
+    <Constituency>Québec</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Réal Ménard</Name>
+    <FirstName>Réal</FirstName>
+    <LastName>Ménard</LastName>
+    <Constituency>Hochelaga</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Claude Bachand</Name>
+    <FirstName>Claude</FirstName>
+    <LastName>Bachand</LastName>
+    <Constituency>Saint-Jean</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Mario Laframboise</Name>
+    <FirstName>Mario</FirstName>
+    <LastName>Laframboise</LastName>
+    <Constituency>Argenteuil—Papineau—Mirabel</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Bernard Bigras</Name>
+    <FirstName>Bernard</FirstName>
+    <LastName>Bigras</LastName>
+    <Constituency>Rosemont—La Petite-Patrie</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gérard Asselin</Name>
+    <FirstName>Gérard</FirstName>
+    <LastName>Asselin</LastName>
+    <Constituency>Manicouagan</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Pauline Picard</Name>
+    <FirstName>Pauline</FirstName>
+    <LastName>Picard</LastName>
+    <Constituency>Drummond</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Michel Guimond</Name>
+    <FirstName>Michel</FirstName>
+    <LastName>Guimond</LastName>
+    <Constituency>Montmorency—Charlevoix—Haute-Côte-Nord</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Monique Guay</Name>
+    <FirstName>Monique</FirstName>
+    <LastName>Guay</LastName>
+    <Constituency>Rivière-du-Nord</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Louis Plamondon</Name>
+    <FirstName>Louis</FirstName>
+    <LastName>Plamondon</LastName>
+    <Constituency>Bas-Richelieu—Nicolet—Bécancour</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Paule Brunelle</Name>
+    <FirstName>Paule</FirstName>
+    <LastName>Brunelle</LastName>
+    <Constituency>Trois-Rivières</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Caroline St-Hilaire</Name>
+    <FirstName>Caroline</FirstName>
+    <LastName>St-Hilaire</LastName>
+    <Constituency>Longueuil—Pierre-Boucher</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jean-Yves Roy</Name>
+    <FirstName>Jean-Yves</FirstName>
+    <LastName>Roy</LastName>
+    <Constituency>Haute-Gaspésie—La Mitis—Matane—Matapédia</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Diane Bourgeois</Name>
+    <FirstName>Diane</FirstName>
+    <LastName>Bourgeois</LastName>
+    <Constituency>Terrebonne—Blainville</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Nicole Demers</Name>
+    <FirstName>Nicole</FirstName>
+    <LastName>Demers</LastName>
+    <Constituency>Laval</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Yves Lessard</Name>
+    <FirstName>Yves</FirstName>
+    <LastName>Lessard</LastName>
+    <Constituency>Chambly—Borduas</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Serge Cardin</Name>
+    <FirstName>Serge</FirstName>
+    <LastName>Cardin</LastName>
+    <Constituency>Sherbrooke</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Serge Ménard</Name>
+    <FirstName>Serge</FirstName>
+    <LastName>Ménard</LastName>
+    <Constituency>Marc-Aurèle-Fortin</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Meili Faille</Name>
+    <FirstName>Meili</FirstName>
+    <LastName>Faille</LastName>
+    <Constituency>Vaudreuil-Soulanges</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Vivian Barbot</Name>
+    <FirstName>Vivian</FirstName>
+    <LastName>Barbot</LastName>
+    <Constituency>Papineau</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. André Bellavance</Name>
+    <FirstName>André</FirstName>
+    <LastName>Bellavance</LastName>
+    <Constituency>Richmond—Arthabaska</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Maka Kotto</Name>
+    <FirstName>Maka</FirstName>
+    <LastName>Kotto</LastName>
+    <Constituency>Saint-Lambert</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Robert Bouchard</Name>
+    <FirstName>Robert</FirstName>
+    <LastName>Bouchard</LastName>
+    <Constituency>Chicoutimi—Le Fjord</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Carole Lavallée</Name>
+    <FirstName>Carole</FirstName>
+    <LastName>Lavallée</LastName>
+    <Constituency>Saint-Bruno—Saint-Hubert</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Marc Lemay</Name>
+    <FirstName>Marc</FirstName>
+    <LastName>Lemay</LastName>
+    <Constituency>Abitibi—Témiscamingue</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Richard Nadeau</Name>
+    <FirstName>Richard</FirstName>
+    <LastName>Nadeau</LastName>
+    <Constituency>Gatineau</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Roger Gaudet</Name>
+    <FirstName>Roger</FirstName>
+    <LastName>Gaudet</LastName>
+    <Constituency>Montcalm</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. France Bonsant</Name>
+    <FirstName>France</FirstName>
+    <LastName>Bonsant</LastName>
+    <Constituency>Compton—Stanstead</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Johanne Deschamps</Name>
+    <FirstName>Johanne</FirstName>
+    <LastName>Deschamps</LastName>
+    <Constituency>Laurentides—Labelle</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Carole Freeman</Name>
+    <FirstName>Carole</FirstName>
+    <LastName>Freeman</LastName>
+    <Constituency>Châteauguay—Saint-Constant</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Claude DeBellefeuille</Name>
+    <FirstName>Claude</FirstName>
+    <LastName>DeBellefeuille</LastName>
+    <Constituency>Beauharnois—Salaberry</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Raynald Blais</Name>
+    <FirstName>Raynald</FirstName>
+    <LastName>Blais</LastName>
+    <Constituency>Gaspésie—Îles-de-la-Madeleine</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Maria Mourani</Name>
+    <FirstName>Maria</FirstName>
+    <LastName>Mourani</LastName>
+    <Constituency>Ahuntsic</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jean-Yves Laforest</Name>
+    <FirstName>Jean-Yves</FirstName>
+    <LastName>Laforest</LastName>
+    <Constituency>Saint-Maurice—Champlain</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Robert Vincent</Name>
+    <FirstName>Robert</FirstName>
+    <LastName>Vincent</LastName>
+    <Constituency>Shefford</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Ève-Mary Thaï Thi Lac</Name>
+    <FirstName>Ève-Mary Thaï</FirstName>
+    <LastName>Thi Lac</LastName>
+    <Constituency>Saint-Hyacinthe—Bagot</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Raymond Gravel</Name>
+    <FirstName>Raymond</FirstName>
+    <LastName>Gravel</LastName>
+    <Constituency>Repentigny</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Marcel Lussier</Name>
+    <FirstName>Marcel</FirstName>
+    <LastName>Lussier</LastName>
+    <Constituency>Brossard—La Prairie</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Luc Malo</Name>
+    <FirstName>Luc</FirstName>
+    <LastName>Malo</LastName>
+    <Constituency>Verchères—Les Patriotes</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Robert Carrier</Name>
+    <FirstName>Robert</FirstName>
+    <LastName>Carrier</LastName>
+    <Constituency>Alfred-Pellan</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Yvon Lévesque</Name>
+    <FirstName>Yvon</FirstName>
+    <LastName>Lévesque</LastName>
+    <Constituency>Abitibi—Baie-James—Nunavik—Eeyou</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Thierry St-Cyr</Name>
+    <FirstName>Thierry</FirstName>
+    <LastName>St-Cyr</LastName>
+    <Constituency>Jeanne-Le Ber</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Christian Ouellet</Name>
+    <FirstName>Christian</FirstName>
+    <LastName>Ouellet</LastName>
+    <Constituency>Brome—Missisquoi</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Guy André</Name>
+    <FirstName>Guy</FirstName>
+    <LastName>André</LastName>
+    <Constituency>Berthier—Maskinongé</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Bloc Québécois</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Louise Thibault</Name>
+    <FirstName>Louise</FirstName>
+    <LastName>Thibault</LastName>
+    <Constituency>Rimouski-Neigette—Témiscouata—Les Basques</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Independent</Party>
+    <RecordedVote>
+      <Yea>0</Yea>
+      <Nay>1</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Joe Comuzzi</Name>
+    <FirstName>Joe</FirstName>
+    <LastName>Comuzzi</LastName>
+    <Constituency>Thunder Bay—Superior North</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mrs. Carol Skelton</Name>
+    <FirstName>Carol</FirstName>
+    <LastName>Skelton</LastName>
+    <Constituency>Saskatoon—Rosetown—Biggar</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Bev Oda</Name>
+    <FirstName>Bev</FirstName>
+    <LastName>Oda</LastName>
+    <Constituency>Durham</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Greg Thompson</Name>
+    <FirstName>Greg</FirstName>
+    <LastName>Thompson</LastName>
+    <Constituency>New Brunswick Southwest</Constituency>
+    <Province code="NB">New Brunswick</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gordon O'Connor</Name>
+    <FirstName>Gordon</FirstName>
+    <LastName>O'Connor</LastName>
+    <Constituency>Carleton—Mississippi Mills</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Vic Toews</Name>
+    <FirstName>Vic</FirstName>
+    <LastName>Toews</LastName>
+    <Constituency>Provencher</Constituency>
+    <Province code="MB">Manitoba</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Stockwell Day</Name>
+    <FirstName>Stockwell</FirstName>
+    <LastName>Day</LastName>
+    <Constituency>Okanagan—Coquihalla</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Rob Nicholson</Name>
+    <FirstName>Rob</FirstName>
+    <LastName>Nicholson</LastName>
+    <Constituency>Niagara Falls</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Peter MacKay</Name>
+    <FirstName>Peter</FirstName>
+    <LastName>MacKay</LastName>
+    <Constituency>Central Nova</Constituency>
+    <Province code="NS">Nova Scotia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jim Prentice</Name>
+    <FirstName>Jim</FirstName>
+    <LastName>Prentice</LastName>
+    <Constituency>Calgary Centre-North</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Stephen Harper</Name>
+    <FirstName>Stephen</FirstName>
+    <LastName>Harper</LastName>
+    <Constituency>Calgary Southwest</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Lawrence Cannon</Name>
+    <FirstName>Lawrence</FirstName>
+    <LastName>Cannon</LastName>
+    <Constituency>Pontiac</Constituency>
+    <Province code="QC">Québec</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Jim Flaherty</Name>
+    <FirstName>Jim</FirstName>
+    <LastName>Flaherty</LastName>
+    <Constituency>Whitby—Oshawa</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Tony Clement</Name>
+    <FirstName>Tony</FirstName>
+    <LastName>Clement</LastName>
+    <Constituency>Parry Sound—Muskoka</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Chuck Strahl</Name>
+    <FirstName>Chuck</FirstName>
+    <LastName>Strahl</LastName>
+    <Constituency>Chilliwack—Fraser Canyon</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Monte Solberg</Name>
+    <FirstName>Monte</FirstName>
+    <LastName>Solberg</LastName>
+    <Constituency>Medicine Hat</Constituency>
+    <Province code="AB">Alberta</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. David Emerson</Name>
+    <FirstName>David</FirstName>
+    <LastName>Emerson</LastName>
+    <Constituency>Vancouver Kingsway</Constituency>
+    <Province code="BC">British Columbia</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Gerry Ritz</Name>
+    <FirstName>Gerry</FirstName>
+    <LastName>Ritz</LastName>
+    <Constituency>Battlefords—Lloydminster</Constituency>
+    <Province code="SK">Saskatchewan</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Mr. Loyola Hearn</Name>
+    <FirstName>Loyola</FirstName>
+    <LastName>Hearn</LastName>
+    <Constituency>St. John's South—Mount Pearl</Constituency>
+    <Province code="NL">Newfoundland and Labrador</Province>
+    <Party>Conservative</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Carolyn Bennett</Name>
+    <FirstName>Carolyn</FirstName>
+    <LastName>Bennett</LastName>
+    <Constituency>St. Paul's</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+  <Participant>
+    <Name>Ms. Albina Guarnieri</Name>
+    <FirstName>Albina</FirstName>
+    <LastName>Guarnieri</LastName>
+    <Constituency>Mississauga East—Cooksville</Constituency>
+    <Province code="ON">Ontario</Province>
+    <Party>Liberal</Party>
+    <RecordedVote>
+      <Yea>1</Yea>
+      <Nay>0</Nay>
+      <Paired>0</Paired>
+    </RecordedVote>
+  </Participant>
+</Vote>

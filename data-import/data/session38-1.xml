@@ -1,0 +1,1450 @@
+<?xml version='1.0' encoding='utf-8'?><!--
+      ============================================================================================
+      
+        House of Commons - Canada
+        - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        The data contained in this document is provided in a standard XML format. Once imported into a spreadsheet
+        or database tool of your choice, the data can be filtered and sorted to create customized reports.
+        Please refer to the instructions within the tool of your choice to find out how to import external data.
+
+        For information about the disclaimer of liability:
+        http://www2.parl.gc.ca/HouseChamberBusiness/ChamberDisclaimer.aspx?Language=E
+
+      
+      ============================================================================================
+    -->
+<Votes schemaVersion="1.0" parliament="38" session="1" sitting="" votesRespecting="All Votes" fromDate="2004-10-04" toDate="2005-11-29" yea="True" nay="True" paired="True">
+  <Vote number="190" parliament="38" session="1" sitting="159" date="2005-11-28">
+    <Description>Opposition Motion (Confidence in the Government)Motion de l’opposition (Confiance dans le gouvernement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>171</TotalYeas>
+    <TotalNays>133</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="189" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>2nd reading of Bill C-380, An Act to amend the Canada Labour Code (pregnant or nursing employees)2e lecture du projet de loi C-380, Loi modifiant le Code canadien du travail (employées enceintes ou allaitantes)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-380" />
+    <TotalYeas>155</TotalYeas>
+    <TotalNays>92</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="188" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>2nd reading of Bill C-251, An Act to amend the Parliament of Canada Act (members who cross the floor)2e lecture du projet de loi C-251, Loi modifiant la Loi sur le Parlement du Canada (changement d'appartenance politique)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-251" />
+    <TotalYeas>60</TotalYeas>
+    <TotalNays>189</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="187" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>2nd reading of Bill C-301, An Act to amend the Old Age Security Act (monthly guaranteed income supplement)2e lecture du projet de loi C-301, Loi modifiant la Loi sur la sécurité de la vieillesse (supplément de revenu mensuel garanti)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-301" />
+    <TotalYeas>252</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="186" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>2nd reading of Bill C-248, An Act to amend the Controlled Drugs and Substances Act (trafficking in a controlled drug or substance within five hundred metres of an elementary school or a high school)2e lecture du projet de loi C-248, Loi modifiant la Loi réglementant certaines drogues et autres substances (trafic de certaines drogues et autres substances à moins d'un demi-kilomètre d'une école primaire ou secondaire)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-248" />
+    <TotalYeas>218</TotalYeas>
+    <TotalNays>31</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="185" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>Ways and Means motion No. 10Motion des voies et moyens no 10</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>201</TotalYeas>
+    <TotalNays>92</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="184" parliament="38" session="1" sitting="156" date="2005-11-23">
+    <Description>Appointment of an officer of ParliamentNomination d'un haut fonctionnaire du Parlement</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>201</TotalYeas>
+    <TotalNays>89</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="183" parliament="38" session="1" sitting="155" date="2005-11-22">
+    <Description>Opposition Motion (World Trade Organization negotiations)Motion de l’opposition (Négociations de l'Organisation mondiale du commerce)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>288</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="182" parliament="38" session="1" sitting="154" date="2005-11-21">
+    <Description>Opposition Motion (39th general election)Motion de l’opposition (39e élection générale)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>167</TotalYeas>
+    <TotalNays>129</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="181" parliament="38" session="1" sitting="150" date="2005-11-15">
+    <Description>Referral of a question of privilege to committeeRenvoi à un comité d’une question de privilège</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>134</TotalYeas>
+    <TotalNays>163</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="180" parliament="38" session="1" sitting="150" date="2005-11-15">
+    <Description>Opposition Motion (Access to Information Act)Motion de l’opposition (Loi sur l’accès à l’information)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>169</TotalYeas>
+    <TotalNays>130</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="179" parliament="38" session="1" sitting="146" date="2005-11-02">
+    <Description>Private Members' Business M-253 (Strychnine solution)Affaires émanant des députés M-253 (Solution de strychnine)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>80</TotalYeas>
+    <TotalNays>157</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="178" parliament="38" session="1" sitting="142" date="2005-10-26">
+    <Description>Private Members' Business M-135 (Queensway-Carleton Hospital)Affaires émanant des députés M-135 (Hôpital Queensway-Carleton)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>110</TotalYeas>
+    <TotalNays>165</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="177" parliament="38" session="1" sitting="142" date="2005-10-26">
+    <Description>Private Members' Business M-135 (Queensway-Carleton Hospital) (amendment)Affaires émanant des députés M-135 (Hôpital Queensway-Carleton) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>111</TotalYeas>
+    <TotalNays>167</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="176" parliament="38" session="1" sitting="142" date="2005-10-26">
+    <Description>Private Members' Business M-153 (Firefighters)Affaires émanant des députés M-153 (Pompiers)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>161</TotalYeas>
+    <TotalNays>112</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="175" parliament="38" session="1" sitting="142" date="2005-10-26">
+    <Description>Private Members' Business M-153 (Firefighters) (amendment)Affaires émanant des députés M-153 (Pompiers) (amendement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>146</TotalYeas>
+    <TotalNays>129</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="174" parliament="38" session="1" sitting="141" date="2005-10-25">
+    <Description>2nd reading of Bill C-64, An Act to amend the Criminal Code (vehicle identification number)2e lecture du projet de loi C-64, Loi modifiant le Code criminel (numéro d'identification de véhicule)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-64" />
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>87</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="173" parliament="38" session="1" sitting="141" date="2005-10-25">
+    <Description>2nd reading of Bill C-65, An Act to amend the Criminal Code (street racing) and to make a consequential amendment to another Act2e lecture du projet de loi C-65, Loi modifiant le Code criminel (courses de rue) et une autre loi en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-65" />
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>86</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="172" parliament="38" session="1" sitting="136" date="2005-10-18">
+    <Description>2nd reading of Bill C-63, An Act to amend An Act to amend the Canada Elections Act and the Income Tax Act2e lecture du projet de loi C-63, Loi modifiant la Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-63" />
+    <TotalYeas>189</TotalYeas>
+    <TotalNays>89</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="171" parliament="38" session="1" sitting="136" date="2005-10-18">
+    <Description>3rd reading and adoption of Bill C-28, An Act to amend the Food and Drugs Act3e lecture et adoption du projet de loi C-28, Loi modifiant la Loi sur les aliments et drogues</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-28" />
+    <TotalYeas>211</TotalYeas>
+    <TotalNays>67</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="170" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Private Members' Business M-227 (Personal or private property)Affaires émanant des députés M-227 (Propriété personnelle ou privée)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>87</TotalYeas>
+    <TotalNays>178</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="169" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>2nd reading of Bill C-363, An Act to amend the Canada Mortgage and Housing Corporation Act (profits distributed to provinces)2e lecture du projet de loi C-363, Loi modifiant la Loi sur la Société canadienne d'hypothèques et de logement (bénéfices versés aux provinces)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-363" />
+    <TotalYeas>71</TotalYeas>
+    <TotalNays>202</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="168" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>2nd reading of Bill C-360, An Act to prevent psychological harassment in the workplace and to amend the Canada Labour Code2e lecture du projet de loi C-360, Loi visant la prévention du harcèlement psychologique en milieu de travail et modifiant le Code canadien du travail</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-360" />
+    <TotalYeas>72</TotalYeas>
+    <TotalNays>199</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="167" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Private Members' Business M-164 (Textile and clothing industries)Affaires émanant des députés M-164 (Industries du textile et du vêtement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>189</TotalYeas>
+    <TotalNays>88</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="166" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Private Members' Business M-164 (Textile and clothing industries) (amendment)Affaires émanant des députés M-164 (Industries du textile et du vêtement) (amendement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>190</TotalYeas>
+    <TotalNays>89</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="165" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Sixth Report of the Standing Committee on Justice, Human Rights, Public Safety and Emergency PreparednessSixième rapport du Comité permanent de la justice, des droits de la personne, de la sécurité publique et de la protection civile</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>162</TotalYeas>
+    <TotalNays>118</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="164" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Fourth Report of the Standing Committee on Access to Information, Privacy and EthicsQuatrième rapport du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>280</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="163" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>Second Report of the Standing Committee on Fisheries and OceansDeuxième rapport du Comité permanent des pêches et des océans</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>280</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="162" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>14th Report of the Standing Committee on Health14e rapport du Comité permanent de la santé</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>280</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="161" parliament="38" session="1" sitting="132" date="2005-10-05">
+    <Description>3rd reading and adoption of Bill C-25, An Act governing the operation of remote sensing space systems3e lecture et adoption du projet de loi C-25, Loi régissant l'exploitation des systèmes de télédétection spatiale</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-25" />
+    <TotalYeas>213</TotalYeas>
+    <TotalNays>69</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="160" parliament="38" session="1" sitting="127" date="2005-09-28">
+    <Description>2nd reading of Bill C-313, An Act to amend the Criminal Code (prohibited sexual acts)2e lecture du projet de loi C-313, Loi modifiant le Code criminel (actes sexuels interdits)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-313" />
+    <TotalYeas>99</TotalYeas>
+    <TotalNays>167</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="159" parliament="38" session="1" sitting="127" date="2005-09-28">
+    <Description>Private Members' Business M-221 (Age of consent)Affaires émanant des députés M-221 (Âge requis pour consentir)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>100</TotalYeas>
+    <TotalNays>169</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="158" parliament="38" session="1" sitting="127" date="2005-09-28">
+    <Description>2nd reading of Bill C-260, An Act respecting the negotiation, approval, tabling and publication of treaties2e lecture du projet de loi C-260, Loi relative à la négociation, à l'approbation, au dépôt et à la publication des traités</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-260" />
+    <TotalYeas>54</TotalYeas>
+    <TotalNays>216</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="157" parliament="38" session="1" sitting="127" date="2005-09-28">
+    <Description>2nd reading of Bill C-293, An Act to amend the Criminal Code (theft of a motor vehicle)2e lecture du projet de loi C-293, Loi modifiant le Code criminel (vol de véhicule à moteur)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-293" />
+    <TotalYeas>88</TotalYeas>
+    <TotalNays>175</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="156" parliament="38" session="1" sitting="124" date="2005-06-28">
+    <Description>3rd reading and adoption of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes3e lecture et adoption du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>158</TotalYeas>
+    <TotalNays>133</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="155" parliament="38" session="1" sitting="124" date="2005-06-28">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (recommittal to a committee)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (nouveau renvoi à un comité)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>127</TotalYeas>
+    <TotalNays>158</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="154" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Concurrence at report stage of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposesAdoption à l’étape du rapport du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>154</TotalYeas>
+    <TotalNays>124</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="153" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>103</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="152" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>103</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="151" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>103</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="150" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>103</TotalYeas>
+    <TotalNays>175</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="149" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>122</TotalYeas>
+    <TotalNays>157</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="148" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>109</TotalYeas>
+    <TotalNays>163</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="147" parliament="38" session="1" sitting="123" date="2005-06-27">
+    <Description>Time allocation for Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposesAttribution de temps pour le projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>163</TotalYeas>
+    <TotalNays>106</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="146" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>3rd reading and adoption of Bill C-48, An Act to authorize the Minister of Finance to make certain payments3e lecture et adoption du projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="145" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (recommittal to a committee)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (nouveau renvoi à un comité)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>93</TotalYeas>
+    <TotalNays>206</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="144" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>3rd reading and adoption of Bill C-48, An Act to authorize the Minister of Finance to make certain payments (subamendment)3e lecture et adoption du projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (sous-amendement)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>93</TotalYeas>
+    <TotalNays>206</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="143" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>Time allocation for Bill C-48, An Act to authorize the Minister of Finance to make certain paymentsAttribution de temps pour le projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>205</TotalYeas>
+    <TotalNays>77</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="142" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>Government Business No. 17 (Extended sitting period)Affaires émanant du gouvernement no 17 (Prolongation de la période de séance)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>191</TotalYeas>
+    <TotalNays>108</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="141" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>Government Business No. 17 (Extended sitting period) (amendment)Affaires émanant du gouvernement no 17 (Prolongation de la période de séance) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>101</TotalYeas>
+    <TotalNays>197</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="140" parliament="38" session="1" sitting="122" date="2005-06-23">
+    <Description>Motion for closureMotion de clôture</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>195</TotalYeas>
+    <TotalNays>97</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="139" parliament="38" session="1" sitting="121" date="2005-06-22">
+    <Description>Private Members' Business M-228 (Symbol for the House of Commons)Affaires émanant des députés M-228 (Symbole pour la Chambre des communes)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>142</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="138" parliament="38" session="1" sitting="121" date="2005-06-22">
+    <Description>2nd reading of Bill S-14, An Act to protect heritage lighthouses2e lecture du projet de loi S-14, Loi visant à protéger les phares patrimoniaux</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-14" />
+    <TotalYeas>233</TotalYeas>
+    <TotalNays>52</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="137" parliament="38" session="1" sitting="121" date="2005-06-22">
+    <Description>Private Members' Business M-162 (Kyoto Protocol)Affaires émanant des députés M-162 (Protocole de Kyoto)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>52</TotalYeas>
+    <TotalNays>237</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="136" parliament="38" session="1" sitting="121" date="2005-06-22">
+    <Description>2nd reading of Bill C-275, An Act to amend the Criminal Code (failure to stop at scene of accident)2e lecture du projet de loi C-275, Loi modifiant le Code criminel (défaut d'arrêter lors d'un accident)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-275" />
+    <TotalYeas>94</TotalYeas>
+    <TotalNays>194</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="135" parliament="38" session="1" sitting="121" date="2005-06-22">
+    <Description>2nd reading of Bill C-312, An Act to amend the Canada Elections Act (appointment of returning officers)2e lecture du projet de loi C-312, Loi modifiant la Loi  électorale du Canada (nomination des directeurs du scrutin)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-312" />
+    <TotalYeas>258</TotalYeas>
+    <TotalNays>29</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="134" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Concurrence at report stage of Bill C-48, An Act to authorize the Minister of Finance to make certain paymentsAdoption à l’étape du rapport du projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="133" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage amendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="132" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage subamendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (sous-amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>147</TotalYeas>
+    <TotalNays>152</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="131" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage amendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="130" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage subamendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (sous-amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>93</TotalYeas>
+    <TotalNays>206</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="129" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage amendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="128" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Bill C-48, An Act to authorize the Minister of Finance to make certain payments (report stage subamendment)Projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements (sous-amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>93</TotalYeas>
+    <TotalNays>205</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="127" parliament="38" session="1" sitting="120" date="2005-06-21">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>191</TotalYeas>
+    <TotalNays>88</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="126" parliament="38" session="1" sitting="119" date="2005-06-20">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>192</TotalYeas>
+    <TotalNays>83</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="125" parliament="38" session="1" sitting="117" date="2005-06-16">
+    <Description>3rd reading and adoption of Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 20053e lecture et adoption du projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>242</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="124" parliament="38" session="1" sitting="117" date="2005-06-16">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>88</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="123" parliament="38" session="1" sitting="116" date="2005-06-15">
+    <Description>3rd reading and adoption of Bill C-259, An Act to amend the Excise Tax Act (elimination of excise tax on jewellery)3e lecture et adoption du projet de loi C-259, Loi modifiant la Loi sur la taxe d'accise (suppression de la taxe d'accise sur les bijoux)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-259" />
+    <TotalYeas>185</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="122" parliament="38" session="1" sitting="116" date="2005-06-15">
+    <Description>Fifth Report of the Standing Committee on Access to Information, Privacy and EthicsCinquième rapport du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>277</TotalYeas>
+    <TotalNays>2</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="121" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence at report stage of Bill C-25, An Act governing the operation of remote sensing space systemsAdoption à l’étape du rapport du projet de loi C-25, Loi régissant l'exploitation des systèmes de télédétection spatiale</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-25" />
+    <TotalYeas>229</TotalYeas>
+    <TotalNays>72</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="120" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence at report stage of Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005Adoption à l’étape du rapport du projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>249</TotalYeas>
+    <TotalNays>53</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="119" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>248</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="118" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>248</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="117" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage subamendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (sous-amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>229</TotalYeas>
+    <TotalNays>73</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="116" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>153</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="115" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>153</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="114" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="113" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="112" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 2005 (report stage amendment)Projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005 (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="111" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>3rd reading and adoption of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20063e lecture et adoption du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2006</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="110" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence at report stage of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2006Adoption à l’étape du rapport du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2006</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="109" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>2nd reading of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20062e lecture du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2006</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="108" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence in estimatesAdoption d’un budget</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="107" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence in an opposed itemAdoption d’un crédit faisant l’objet d’opposition</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>101</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="106" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence in an opposed itemAdoption d’un crédit faisant l’objet d’opposition</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>101</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="105" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Concurrence in an opposed itemAdoption d’un crédit faisant l’objet d’opposition</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>206</TotalYeas>
+    <TotalNays>96</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="104" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Opposition Motion (Child care)Motion de l’opposition (Services de garde d’enfants)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>205</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="103" parliament="38" session="1" sitting="115" date="2005-06-14">
+    <Description>Opposition Motion (Strategy to help older workers)Motion de l’opposition (Stratégie d'aide aux travailleurs âgés)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>301</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="102" parliament="38" session="1" sitting="114" date="2005-06-13">
+    <Description>Government Business No. 16 (Extension of sitting hours in June)Affaires émanant du gouvernement no 16 (Prolongation des heures de séance en juin)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>146</TotalYeas>
+    <TotalNays>120</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="101" parliament="38" session="1" sitting="111" date="2005-06-08">
+    <Description>3rd reading and adoption of Bill C-22, An Act to establish the Department of Social Development and to amend and repeal certain related Acts3e lecture et adoption du projet de loi C-22, Loi constituant le ministère du Développement social et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-22" />
+    <TotalYeas>210</TotalYeas>
+    <TotalNays>68</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="100" parliament="38" session="1" sitting="111" date="2005-06-08">
+    <Description>Government Business No. 15 (Review of Delegated Legislation)Affaires émanant du gouvernement no 15 (Examen des décrets-lois)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>189</TotalYeas>
+    <TotalNays>89</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="99" parliament="38" session="1" sitting="110" date="2005-06-07">
+    <Description>Private Members' Business M-195 (Foreign Credential Recognition Program)Affaires émanant des députés M-195 (Programme de reconnaissance des titres de compétences étrangers)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>219</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="98" parliament="38" session="1" sitting="110" date="2005-06-07">
+    <Description>Opposition Motion (Discrimination on the basis of political opinion)Motion de l’opposition (Discrimination basée sur l'opinion politique)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>157</TotalYeas>
+    <TotalNays>124</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="97" parliament="38" session="1" sitting="110" date="2005-06-07">
+    <Description>Opposition Motion (Employment Insurance)Motion de l’opposition (Assurance emploi)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>105</TotalYeas>
+    <TotalNays>175</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="96" parliament="38" session="1" sitting="110" date="2005-06-07">
+    <Description>Opposition Motion (National strategy for health)Motion de l’opposition (Stratégie nationale pour la santé)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>231</TotalYeas>
+    <TotalNays>53</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="95" parliament="38" session="1" sitting="110" date="2005-06-07">
+    <Description>Opposition Motion (National strategy for health) (amendment)Motion de l’opposition (Stratégie nationale pour la santé) (amendement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>231</TotalYeas>
+    <TotalNays>53</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="94" parliament="38" session="1" sitting="106" date="2005-06-01">
+    <Description>3rd reading and adoption of Bill C-23, An Act to establish the Department of Human Resources and Skills Development and to amend and repeal certain related Acts3e lecture et adoption du projet de loi C-23, Loi constituant le ministère des Ressources humaines et du Développement des compétences et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-23" />
+    <TotalYeas>217</TotalYeas>
+    <TotalNays>67</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="93" parliament="38" session="1" sitting="106" date="2005-06-01">
+    <Description>Opposition Motion (Gomery commission terms of reference)Motion de l’opposition (mandat de la Commission Gomery)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>92</TotalYeas>
+    <TotalNays>192</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="92" parliament="38" session="1" sitting="106" date="2005-06-01">
+    <Description>3rd reading and adoption of Bill C-9, An Act to establish the Economic Development Agency of Canada for the Regions of Quebec3e lecture et adoption du projet de loi C-9, Loi constituant l'Agence de développement économique du Canada pour les régions du Québec</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>232</TotalYeas>
+    <TotalNays>47</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="91" parliament="38" session="1" sitting="102" date="2005-05-19">
+    <Description>2nd reading of Bill C-48, An Act to authorize the Minister of Finance to make certain payments2e lecture du projet de loi C-48, Loi autorisant le ministre des Finances à faire certains versements</Description>
+    <Decision>Tie</Decision>
+    <RelatedBill number="C-48" />
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>152</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="90" parliament="38" session="1" sitting="102" date="2005-05-19">
+    <Description>2nd reading of Bill C-43, An Act to implement certain provisions of the budget tabled in Parliament on February 23, 20052e lecture du projet de loi C-43, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 février 2005</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-43" />
+    <TotalYeas>250</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="89" parliament="38" session="1" sitting="101" date="2005-05-18">
+    <Description>Second Report of the Standing Committee on Foreign Affairs and International TradeDeuxième rapport du Comité permanent des affaires étrangères et du commerce international</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>158</TotalYeas>
+    <TotalNays>123</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="88" parliament="38" session="1" sitting="98" date="2005-05-13">
+    <Description>Motion to adjourn the HouseMotion d'ajournement de la Chambre</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>138</TotalYeas>
+    <TotalNays>57</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="87" parliament="38" session="1" sitting="98" date="2005-05-13">
+    <Description>Motion to hear another MemberMotion visant à faire entendre un député</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>150</TotalYeas>
+    <TotalNays>65</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="86" parliament="38" session="1" sitting="97" date="2005-05-12">
+    <Description>Motion to adjourn the HouseMotion d'ajournement de la Chambre</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>144</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="85" parliament="38" session="1" sitting="96" date="2005-05-11">
+    <Description>Motion to adjourn the HouseMotion d'ajournement de la Chambre</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>277</TotalYeas>
+    <TotalNays>21</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="84" parliament="38" session="1" sitting="96" date="2005-05-11">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>147</TotalYeas>
+    <TotalNays>153</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="83" parliament="38" session="1" sitting="95" date="2005-05-10">
+    <Description>Amendment to the First Report of the Standing Committee on Public AccountsAmendement au premier rapport du Comité permanent des comptes publics</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>150</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="82" parliament="38" session="1" sitting="95" date="2005-05-10">
+    <Description>Amendment to the First Report of the Standing Committee on Public Accounts (amendment)Amendement au premier rapport du Comité permanent des comptes publics (amendement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>150</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="81" parliament="38" session="1" sitting="95" date="2005-05-10">
+    <Description>Concurrence at report stage of Bill C-9, An Act to establish the Economic Development Agency of Canada for the Regions of QuebecAdoption à l’étape du rapport du projet de loi C-9, Loi constituant l'Agence de développement économique du Canada pour les régions du Québec</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>247</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="80" parliament="38" session="1" sitting="95" date="2005-05-10">
+    <Description>Motion respecting Senate amendments to Bill C-12, An Act to prevent the introduction and spread of communicable diseasesMotion relative aux amendements du Sénat au projet de loi C-12,Loi visant à prévenir l'introduction et la propagation de maladies transmissibles</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-12" />
+    <TotalYeas>249</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="79" parliament="38" session="1" sitting="95" date="2005-05-10">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>132</TotalYeas>
+    <TotalNays>122</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="78" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>2nd reading of Bill C-274, An Act to amend the Patent Act2e lecture du projet de loi C-274, Loi modifiant la Loi sur les brevets</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-274" />
+    <TotalYeas>23</TotalYeas>
+    <TotalNays>266</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="77" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>2nd reading of Bill C-215, An Act to amend the Criminal Code (consecutive sentence for use of firearm in commission of offence)2e lecture du projet de loi C-215, Loi modifiant le Code criminel (peine consécutive en cas d'usage d'une arme à feu lors de la perpétration d'une infraction)</Description>
+    <Decision>Tie</Decision>
+    <RelatedBill number="C-215" />
+    <TotalYeas>148</TotalYeas>
+    <TotalNays>148</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="76" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>164</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="75" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (previous question)2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (question préalable)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>163</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="74" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>Fourth Report of the Standing Committee on Justice, Human Rights, Public Safety and Emergency PreparednessQuatrième rapport du Comité permanent de la justice, des droits de la personne, de la sécurité publique et de la protection civile</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>188</TotalYeas>
+    <TotalNays>109</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="73" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>Fourth Report of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness (previous question)Quatrième rapport du Comité permanent de la justice, des droits de la personne, de la sécurité publique et de la protection civile (question préalable)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>188</TotalYeas>
+    <TotalNays>109</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="72" parliament="38" session="1" sitting="91" date="2005-05-04">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>222</TotalYeas>
+    <TotalNays>73</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="71" parliament="38" session="1" sitting="90" date="2005-05-03">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>148</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="70" parliament="38" session="1" sitting="89" date="2005-05-02">
+    <Description>Third Report of the Standing Committee on Agriculture and Agri-FoodTroisième rapport du Comité permanent de l'agriculture et de l'agroalimentaire</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>168</TotalYeas>
+    <TotalNays>122</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="69" parliament="38" session="1" sitting="89" date="2005-05-02">
+    <Description>Third Report of the Standing Committee on Agriculture and Agri-Food (amendment)Troisième rapport du Comité permanent de l'agriculture et de l'agroalimentaire (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>123</TotalYeas>
+    <TotalNays>167</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="68" parliament="38" session="1" sitting="86" date="2005-04-20">
+    <Description>Private Members' Business M-165 (Gasoline prices)Affaires émanant des députés M-165 (Prix de l'essence)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>111</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="67" parliament="38" session="1" sitting="86" date="2005-04-20">
+    <Description>2nd reading of Bill C-265, An Act to amend the Income Tax Act (exemption from taxation of 50% of United States social security payments to Canadian residents)2e lecture du projet de loi C-265, Loi modifiant la Loi de l'impôt sur le revenu (exemption fiscale de 50% du montant des prestations versées à des résidents du Canada au titre de la sécurité sociale des États-Unis)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-265" />
+    <TotalYeas>154</TotalYeas>
+    <TotalNays>112</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="66" parliament="38" session="1" sitting="86" date="2005-04-20">
+    <Description>Seventh Report of the Standing Committee on HealthSeptième rapport du Comité permanent de la santé</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>269</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="65" parliament="38" session="1" sitting="85" date="2005-04-19">
+    <Description>Opposition Motion (Sponsorship Program (trust account))Motion de l’opposition (Programme de commandites (compte en fiducie))</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>157</TotalYeas>
+    <TotalNays>119</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="64" parliament="38" session="1" sitting="81" date="2005-04-13">
+    <Description>2nd reading of Bill C-280, An Act to amend the Employment Insurance Act (Employment Insurance Account and premium rate setting) and another Act in consequence2e lecture du projet de loi C-280, Loi modifiant la Loi sur l'assurance-emploi (Compte d'assurance-emploi et fixation du taux de cotisation) et une autre loi en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-280" />
+    <TotalYeas>156</TotalYeas>
+    <TotalNays>116</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="63" parliament="38" session="1" sitting="81" date="2005-04-13">
+    <Description>2nd reading of Bill S-3, An Act to amend the Official Languages Act (promotion of English and French)2e lecture du projet de loi S-3, Loi modifiant la Loi sur les langues officielles (promotion du français et de l'anglais)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-3" />
+    <TotalYeas>194</TotalYeas>
+    <TotalNays>69</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="62" parliament="38" session="1" sitting="81" date="2005-04-13">
+    <Description>2nd reading of Bill C-263, An Act to amend the Canada Labour Code (replacement workers)2e lecture du projet de loi C-263, Loi modifiant le Code canadien du travail (travailleurs de remplacement)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-263" />
+    <TotalYeas>131</TotalYeas>
+    <TotalNays>143</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="61" parliament="38" session="1" sitting="81" date="2005-04-13">
+    <Description>2nd reading of Bill C-236, An Act to amend the Bankruptcy and Insolvency Act (student loan)2e lecture du projet de loi C-236, Loi modifiant la Loi sur la faillite et l'insolvabilité (prêt d'études)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-236" />
+    <TotalYeas>105</TotalYeas>
+    <TotalNays>168</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="60" parliament="38" session="1" sitting="80" date="2005-04-12">
+    <Description>Fourth Report of the Standing Committee on Aboriginal Affairs and Northern DevelopmentQuatrième rapport du Comité permanent des affaires autochtones et du développement du Grand Nord</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="59" parliament="38" session="1" sitting="80" date="2005-04-12">
+    <Description>Fourth Report of the Standing Committee on Aboriginal Affairs and Northern Development (amendment)Quatrième rapport du Comité permanent des affaires autochtones et du développement du Grand Nord (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>147</TotalYeas>
+    <TotalNays>149</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="58" parliament="38" session="1" sitting="80" date="2005-04-12">
+    <Description>Opposition Motion (Air India bombing)Motion de l’opposition (Explosion de l’avion d’Air India )</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>172</TotalYeas>
+    <TotalNays>124</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="57" parliament="38" session="1" sitting="80" date="2005-04-12">
+    <Description>3rd reading and adoption of Bill C-30, An Act to amend the Parliament of Canada Act and the Salaries Act and to make consequential amendments to other Acts3e lecture et adoption du projet de loi C-30, Loi modifiant la Loi sur le Parlement du Canada, la Loi sur les traitements et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-30" />
+    <TotalYeas>231</TotalYeas>
+    <TotalNays>65</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="56" parliament="38" session="1" sitting="80" date="2005-04-12">
+    <Description>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (reasoned amendment)2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement motivé)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-38" />
+    <TotalYeas>132</TotalYeas>
+    <TotalNays>164</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="55" parliament="38" session="1" sitting="77" date="2005-04-06">
+    <Description>Private Members' Business M-193 (First Nations, Métis and Inuit war veterans)Affaires émanant des députés M-193 (Anciens combattants autochtones, métis et inuit)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>100</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="54" parliament="38" session="1" sitting="77" date="2005-04-06">
+    <Description>2nd reading of Bill C-278, An Act to amend the Employment Insurance Act (improvement of the employment insurance system)2e lecture du projet de loi C-278, Loi modifiant la Loi sur l'assurance-emploi (bonification du régime d'assurance-emploi)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-278" />
+    <TotalYeas>77</TotalYeas>
+    <TotalNays>170</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="53" parliament="38" session="1" sitting="77" date="2005-04-06">
+    <Description>Fourth Report of the Standing Committee on Environment and Sustainable DevelopmentQuatrième rapport du Comité permanent de l'environnement et du développement durable</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>108</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="52" parliament="38" session="1" sitting="73" date="2005-03-23">
+    <Description>2nd reading of Bill C-272, An Act to amend the Immigration and Refugee Protection Act (sponsorship of relative)2e lecture du projet de loi C-272, Loi modifiant la Loi sur l'immigration et la protection des réfugiés (parrainage d'un parent)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-272" />
+    <TotalYeas>76</TotalYeas>
+    <TotalNays>167</TotalNays>
+    <TotalPaired>18</TotalPaired>
+  </Vote>
+  <Vote number="51" parliament="38" session="1" sitting="73" date="2005-03-23">
+    <Description>Private Members' Business M-195 (Foreign Credential Recognition Program) (amendment)Affaires émanant des députés M-195 (Programme de reconnaissance des titres de compétences étrangers) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>112</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>18</TotalPaired>
+  </Vote>
+  <Vote number="50" parliament="38" session="1" sitting="73" date="2005-03-23">
+    <Description>Concurrence at report stage of Bill C-30, An Act to amend the Parliament of Canada Act and the Salaries Act and to make consequential amendments to other ActsAdoption à l’étape du rapport du projet de loi C-30, Loi modifiant la Loi sur le Parlement du Canada, la Loi sur les traitements et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-30" />
+    <TotalYeas>200</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>18</TotalPaired>
+  </Vote>
+  <Vote number="49" parliament="38" session="1" sitting="73" date="2005-03-23">
+    <Description>Bill C-30, An Act to amend the Parliament of Canada Act and the Salaries Act and to make consequential amendments to other Acts (report stage amendment)Projet de loi C-30, Loi modifiant la Loi sur le Parlement du Canada, la Loi sur les traitements et d'autres lois en conséquence (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-30" />
+    <TotalYeas>203</TotalYeas>
+    <TotalNays>50</TotalNays>
+    <TotalPaired>18</TotalPaired>
+  </Vote>
+  <Vote number="48" parliament="38" session="1" sitting="72" date="2005-03-22">
+    <Description>Concurrence at report stage of Bill C-22, An Act to establish the Department of Social Development and to amend and repeal certain related ActsAdoption à l’étape du rapport du projet de loi C-22, Loi constituant le ministère du Développement social et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-22" />
+    <TotalYeas>217</TotalYeas>
+    <TotalNays>70</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="47" parliament="38" session="1" sitting="72" date="2005-03-22">
+    <Description>Concurrence at report stage of Bill C-23, An Act to establish the Department of Human Resources and Skills Development and to amend and repeal certain related ActsAdoption à l’étape du rapport du projet de loi C-23, Loi constituant le ministère des Ressources humaines et du Développement des compétences et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-23" />
+    <TotalYeas>217</TotalYeas>
+    <TotalNays>70</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="46" parliament="38" session="1" sitting="72" date="2005-03-22">
+    <Description>Opposition Motion (Equalization)Motion de l’opposition (Péréquation)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>105</TotalYeas>
+    <TotalNays>182</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="45" parliament="38" session="1" sitting="72" date="2005-03-22">
+    <Description>Opposition Motion (Equalization) (amendment)Motion de l’opposition (Péréquation) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>105</TotalYeas>
+    <TotalNays>181</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="44" parliament="38" session="1" sitting="68" date="2005-03-09">
+    <Description>2nd reading of Bill C-283, An Act to amend the Immigration and Refugee Protection Act and the Immigration and Refugee Protection Regulations2e lecture du projet de loi C-283, Loi modifiant la Loi sur l'immigration et la protection des réfugiés et le Règlement sur l'immigration et la protection des réfugiés</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-283" />
+    <TotalYeas>165</TotalYeas>
+    <TotalNays>112</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="43" parliament="38" session="1" sitting="68" date="2005-03-09">
+    <Description>Budgetary policyPolitique budgétaire</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>132</TotalYeas>
+    <TotalNays>73</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="42" parliament="38" session="1" sitting="67" date="2005-03-08">
+    <Description>Budgetary policy (amendment)Politique budgétaire (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>85</TotalYeas>
+    <TotalNays>205</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="41" parliament="38" session="1" sitting="66" date="2005-03-07">
+    <Description>Budgetary policy (subamendment)Politique budgétaire (sous-amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>71</TotalYeas>
+    <TotalNays>209</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="40" parliament="38" session="1" sitting="62" date="2005-02-22">
+    <Description>Opposition Motion (Light duty vehicle emission standards)Motion de l’opposition (Taux d'émission des véhicules légers)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>70</TotalYeas>
+    <TotalNays>201</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="39" parliament="38" session="1" sitting="62" date="2005-02-22">
+    <Description>Opposition Motion (Accountability of foundations)Motion de l’opposition (Reddition de comptes des fondations)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>161</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="38" parliament="38" session="1" sitting="57" date="2005-02-15">
+    <Description>2nd reading of Bill C-32, An Act to amend the Department of Foreign Affairs and International Trade Act and to make consequential amendments to other Acts2e lecture du projet de loi C-32, Loi modifiant la Loi sur le ministère des Affaires étrangères et du Commerce international et apportant des modifications corrélatives à d'autres lois</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-32" />
+    <TotalYeas>125</TotalYeas>
+    <TotalNays>154</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="37" parliament="38" session="1" sitting="57" date="2005-02-15">
+    <Description>3rd reading and adoption of Bill C-24, An Act to amend the Federal-Provincial Fiscal Arrangements Act and to make consequential amendments to other Acts (fiscal equalization payments to the provinces and funding to the territories)3e lecture et adoption du projet de loi C-24, Loi modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et d'autres lois en conséquence (paiements de péréquation aux provinces et financement des territoires)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-24" />
+    <TotalYeas>229</TotalYeas>
+    <TotalNays>50</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="36" parliament="38" session="1" sitting="57" date="2005-02-15">
+    <Description>2nd reading of Bill C-31, An Act to establish the Department of International Trade and to make related amendments to certain Acts2e lecture du projet de loi C-31, Loi constituant le ministère du Commerce international et apportant des modifications connexes à certaines lois</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-31" />
+    <TotalYeas>125</TotalYeas>
+    <TotalNays>157</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="35" parliament="38" session="1" sitting="57" date="2005-02-15">
+    <Description>Opposition Motion (Childcare funding)Motion de l’opposition (Financement de la garde d'enfants)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>96</TotalYeas>
+    <TotalNays>185</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="34" parliament="38" session="1" sitting="53" date="2005-02-09">
+    <Description>2nd reading of Bill C-206, An Act to amend the Food and Drugs Act (warning labels regarding the consumption of alcohol)2e lecture du projet de loi C-206, Loi modifiant la Loi sur les aliments et drogues (étiquettes de mise en garde au sujet de la consommation de boissons alcooliques)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-206" />
+    <TotalYeas>225</TotalYeas>
+    <TotalNays>27</TotalNays>
+    <TotalPaired>16</TotalPaired>
+  </Vote>
+  <Vote number="33" parliament="38" session="1" sitting="52" date="2005-02-08">
+    <Description>Opposition Motion (Financial relief for farmers)Motion de l’opposition (Aide financière aux agriculteurs)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>158</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="32" parliament="38" session="1" sitting="52" date="2005-02-08">
+    <Description>Opposition Motion (Assistance to the clothing and textile industries)Motion de l’opposition (Aide aux industries du vêtement et du textile)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>157</TotalYeas>
+    <TotalNays>108</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="31" parliament="38" session="1" sitting="48" date="2005-02-02">
+    <Description>2nd reading of Bill C-24, An Act to amend the Federal-Provincial Fiscal Arrangements Act and to make consequential amendments to other Acts (fiscal equalization payments to the provinces and funding to the territories)2e lecture du projet de loi C-24, Loi modifiant la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et d'autres lois en conséquence (paiements de péréquation aux provinces et financement des territoires)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-24" />
+    <TotalYeas>220</TotalYeas>
+    <TotalNays>47</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="30" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>2nd reading of Bill C-30, An Act to amend the Parliament of Canada Act and the Salaries Act and to make consequential amendments to other Acts2e lecture du projet de loi C-30, Loi modifiant la Loi sur le Parlement du Canada, la Loi sur les traitements et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-30" />
+    <TotalYeas>225</TotalYeas>
+    <TotalNays>67</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="29" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>Concurrence in an opposed itemAdoption d’un crédit faisant l’objet d’opposition</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>192</TotalYeas>
+    <TotalNays>99</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="28" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>Concurrence in an opposed itemAdoption d’un crédit faisant l’objet d’opposition</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>191</TotalYeas>
+    <TotalNays>102</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="27" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>Motion to restore a vote in estimatesMotion visant à rétablir un crédit budgétaire</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>124</TotalYeas>
+    <TotalNays>167</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="26" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>Motion to restore a vote in estimatesMotion visant à rétablir un crédit budgétaire</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>120</TotalYeas>
+    <TotalNays>171</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="25" parliament="38" session="1" sitting="42" date="2004-12-09">
+    <Description>Opposition Motion (Sockeye salmon stocks)Motion de l’opposition (Stocks de saumon sockeye)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>113</TotalYeas>
+    <TotalNays>182</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="24" parliament="38" session="1" sitting="40" date="2004-12-07">
+    <Description>2nd reading of Bill C-22, An Act to establish the Department of Social Development and to amend and repeal certain related Acts2e lecture du projet de loi C-22, Loi constituant le ministère du Développement social et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-22" />
+    <TotalYeas>240</TotalYeas>
+    <TotalNays>51</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="23" parliament="38" session="1" sitting="40" date="2004-12-07">
+    <Description>2nd reading of Bill C-9, An Act to establish the Economic Development Agency of Canada for the Regions of Quebec2e lecture du projet de loi C-9, Loi constituant l'Agence de développement économique du Canada pour les régions du Québec</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>240</TotalYeas>
+    <TotalNays>51</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="22" parliament="38" session="1" sitting="40" date="2004-12-07">
+    <Description>3rd reading and adoption of Bill C-14, An Act to give effect to a land claims and self-government agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, to make related amendments to the Mackenzie Valley Resource Management Act and to make consequential amendments to other Acts3e lecture et adoption du projet de loi C-14, Loi mettant en vigueur l'accord sur les revendications territoriales et l'autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada et modifiant la Loi sur la gestion des ressources de la vallée du Mackenzie et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-14" />
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>94</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="21" parliament="38" session="1" sitting="40" date="2004-12-07">
+    <Description>3rd reading and adoption of Bill C-5, An Act to provide financial assistance for post-secondary education savings3e lecture et adoption du projet de loi C-5, Loi sur l'aide financière à l'épargne destinée aux études postsecondaires</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-5" />
+    <TotalYeas>273</TotalYeas>
+    <TotalNays>19</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="20" parliament="38" session="1" sitting="40" date="2004-12-07">
+    <Description>Opposition Motion (Mad cow crisis)Motion de l’opposition (Crise de la vache folle)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>164</TotalYeas>
+    <TotalNays>125</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="19" parliament="38" session="1" sitting="36" date="2004-12-01">
+    <Description>Bill C-5, An Act to provide financial assistance for post-secondary education savings (report stage amendment)Projet de loi C-5, Loi sur l'aide financière à l'épargne destinée aux études postsecondaires (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-5" />
+    <TotalYeas>17</TotalYeas>
+    <TotalNays>233</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="18" parliament="38" session="1" sitting="36" date="2004-12-01">
+    <Description>Bill C-5, An Act to provide financial assistance for post-secondary education savings (report stage amendment)Projet de loi C-5, Loi sur l'aide financière à l'épargne destinée aux études postsecondaires (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-5" />
+    <TotalYeas>17</TotalYeas>
+    <TotalNays>233</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="17" parliament="38" session="1" sitting="35" date="2004-11-30">
+    <Description>Opposition Motion (Mirabel Airport)Motion de l’opposition (Aéroport de Mirabel)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>157</TotalYeas>
+    <TotalNays>118</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="16" parliament="38" session="1" sitting="30" date="2004-11-23">
+    <Description>2nd reading of Bill C-23, An Act to establish the Department of Human Resources and Skills Development and to amend and repeal certain related Acts2e lecture du projet de loi C-23, Loi constituant le ministère des Ressources humaines et du Développement des compétences et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-23" />
+    <TotalYeas>221</TotalYeas>
+    <TotalNays>48</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="15" parliament="38" session="1" sitting="30" date="2004-11-23">
+    <Description>Bill C-21, An Act respecting not-for-profit corporations and other corporations without share capital (referral to a committee before second reading)Projet de loi C-21, Loi régissant les organisations à but non lucratif et les autres organisations sans capital-actions (renvoi à un comité avant la deuxième lecture)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-21" />
+    <TotalYeas>180</TotalYeas>
+    <TotalNays>89</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="14" parliament="38" session="1" sitting="30" date="2004-11-23">
+    <Description>Bill C-7, An Act to amend the Department of Canadian Heritage Act and the Parks Canada Agency Act and to make related amendments to other Acts (report stage amendment)Projet de loi C-7, Loi modifiant la Loi sur le ministère du Patrimoine canadien et la Loi sur l'Agence Parcs Canada et apportant des modifications connexes à d'autres lois (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-7" />
+    <TotalYeas>157</TotalYeas>
+    <TotalNays>112</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="13" parliament="38" session="1" sitting="30" date="2004-11-23">
+    <Description>Opposition Motion (Processed trans fatty acids)Motion de l’opposition (Acides gras trans artificiels)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>193</TotalYeas>
+    <TotalNays>73</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="12" parliament="38" session="1" sitting="25" date="2004-11-16">
+    <Description>Concurrence at report stage of Bill C-6, An Act to establish the Department of Public Safety and Emergency Preparedness and to amend or repeal certain ActsAdoption à l’étape du rapport du projet de loi C-6, Loi constituant le ministère de la Sécurité publique et de la Protection civile et modifiant et abrogeant certaines lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-6" />
+    <TotalYeas>278</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="11" parliament="38" session="1" sitting="25" date="2004-11-16">
+    <Description>Bill C-6, An Act to establish the Department of Public Safety and Emergency Preparedness and to amend or repeal certain Acts (report stage amendment)Projet de loi C-6, Loi constituant le ministère de la Sécurité publique et de la Protection civile et modifiant et abrogeant certaines lois (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-6" />
+    <TotalYeas>124</TotalYeas>
+    <TotalNays>154</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="10" parliament="38" session="1" sitting="24" date="2004-11-15">
+    <Description>Opposition Motion (Offshore oil and gas revenues)Motion de l’opposition (Revenus d'exploitation pétrolière et gazière au large des côtes)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>110</TotalYeas>
+    <TotalNays>157</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="9" parliament="38" session="1" sitting="20" date="2004-11-02">
+    <Description>Bill C-17, An Act to amend the Contraventions Act and the Controlled Drugs and Substances Act and to make consequential amendments to other Acts (referral to a committee before second reading)Projet de loi C-17, Loi modifiant la Loi sur les contraventions et la Loi réglementant certaines drogues et autres substances et apportant des modifications corrélatives à d'autres lois (renvoi à un comité avant la deuxième lecture)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-17" />
+    <TotalYeas>191</TotalYeas>
+    <TotalNays>99</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="8" parliament="38" session="1" sitting="20" date="2004-11-02">
+    <Description>Bill C-13, An Act to amend the Criminal Code, the DNA Identification Act and the National Defence Act (referral to a committee before second reading)Projet de loi C-13, Loi modifiant le Code criminel, la Loi sur l'identification par les empreintes génétiques et la Loi sur la défense nationale (renvoi à un comité avant la deuxième lecture)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-13" />
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="7" parliament="38" session="1" sitting="20" date="2004-11-02">
+    <Description>2nd reading of Bill C-14, An Act to give effect to a land claims and self-government agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, to make related amendments to the Mackenzie Valley Resource Management Act and to make consequential amendments to other Acts2e lecture du projet de loi C-14, Loi mettant en vigueur l'accord sur les revendications territoriales et l'autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada et modifiant la Loi sur la gestion des ressources de la vallée du Mackenzie et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-14" />
+    <TotalYeas>198</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="6" parliament="38" session="1" sitting="20" date="2004-11-02">
+    <Description>Opposition Motion (Fiscal imbalance)Motion de l’opposition (Déséquilibre fiscal)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>165</TotalYeas>
+    <TotalNays>128</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="5" parliament="38" session="1" sitting="15" date="2004-10-26">
+    <Description>Opposition Motion (National Defence Policies)Motion de l’opposition (Politiques de défense nationale)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>93</TotalYeas>
+    <TotalNays>192</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="4" parliament="38" session="1" sitting="10" date="2004-10-18">
+    <Description>Ways and Means motion No. 1Motion des voies et moyens no 1</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>207</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="3" parliament="38" session="1" sitting="10" date="2004-10-18">
+    <Description>2nd reading of Bill C-3, An Act to amend the Canada Shipping Act, the Canada Shipping Act, 2001, the Canada National Marine Conservation Areas Act and the Oceans Act2e lecture du projet de loi C-3, Loi modifiant la Loi sur la marine marchande du Canada, la Loi de 2001 sur la marine marchande du Canada, la Loi sur les aires marines nationales de conservation du Canada et la Loi sur les océans</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-3" />
+    <TotalYeas>245</TotalYeas>
+    <TotalNays>54</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="2" parliament="38" session="1" sitting="10" date="2004-10-18">
+    <Description>Bill C-11, An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings (referral to a committee before second reading)Projet de loi C-11, Loi prévoyant un mécanisme de divulgation des actes répréhensibles et de protection des divulgateurs dans le
+secteur public (renvoi à un comité avant la deuxième lecture)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-11" />
+    <TotalYeas>207</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="1" parliament="38" session="1" sitting="10" date="2004-10-18">
+    <Description>Bill C-2, An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act (referral to a committee before second reading)Projet de loi C-2, Loi modifiant le Code criminel (protection des enfants et d'autres personnes vulnérables) et la Loi sur la preuve au Canada (renvoi à un comité avant la deuxième lecture)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>207</TotalYeas>
+    <TotalNays>93</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+</Votes>

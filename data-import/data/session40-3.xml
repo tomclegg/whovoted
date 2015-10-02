@@ -1,0 +1,1574 @@
+<?xml version='1.0' encoding='utf-8'?><!--
+      ============================================================================================
+      
+        House of Commons - Canada
+        - - - - - - - - - - - - - - - - - - - - - - - - -
+
+        The data contained in this document is provided in a standard XML format. Once imported into a spreadsheet
+        or database tool of your choice, the data can be filtered and sorted to create customized reports.
+        Please refer to the instructions within the tool of your choice to find out how to import external data.
+
+        For information about the disclaimer of liability:
+        http://www2.parl.gc.ca/HouseChamberBusiness/ChamberDisclaimer.aspx?Language=E
+
+      
+      ============================================================================================
+    -->
+<Votes schemaVersion="1.0" parliament="40" session="3" sitting="" votesRespecting="All Votes" fromDate="2010-03-03" toDate="2011-03-26" yea="True" nay="True" paired="True">
+  <Vote number="204" parliament="40" session="3" sitting="149" date="2011-03-25">
+    <Description>Opposition Motion (Confidence in the government)Motion de l’opposition (Confiance dans le gouvernement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>156</TotalYeas>
+    <TotalNays>145</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="203" parliament="40" session="3" sitting="147" date="2011-03-23">
+    <Description>Motion to proceed to Orders of the DayMotion visant à passer à l’Ordre du jour</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>150</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="202" parliament="40" session="3" sitting="143" date="2011-03-10">
+    <Description>Opposition Motion (Conduct of the government)Motion de l’opposition (Conduite du gouvernement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>145</TotalYeas>
+    <TotalNays>135</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="201" parliament="40" session="3" sitting="142" date="2011-03-09">
+    <Description>3rd reading and adoption of Bill C-509, An Act to amend the Canada Post Corporation Act (library materials)3e lecture et adoption du projet de loi C-509, Loi modifiant la Loi sur la Société canadienne des postes (documents de bibliothèque)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-509" />
+    <TotalYeas>286</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="200" parliament="40" session="3" sitting="142" date="2011-03-09">
+    <Description>Concurrence at report stage of Bill C-501, An Act to amend the Bankruptcy and Insolvency Act and other Acts (pension protection)Adoption à l’étape du rapport du projet de loi C-501, Loi modifiant la Loi sur la faillite et l’insolvabilité et d’autres lois (protection des prestations)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-501" />
+    <TotalYeas>164</TotalYeas>
+    <TotalNays>119</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="199" parliament="40" session="3" sitting="142" date="2011-03-09">
+    <Description>Bill C-393, An Act to amend the Patent Act (drugs for international humanitarian purposes) and to make a consequential amendment to another Act (report stage subamendment)Projet de loi C-393, Loi modifiant la Loi sur les brevets (drogues utilisées à des fins humanitaires internationales) et une autre loi en conséquence (sous-amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-393" />
+    <TotalYeas>172</TotalYeas>
+    <TotalNays>111</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="198" parliament="40" session="3" sitting="142" date="2011-03-09">
+    <Description>3rd reading and adoption of Bill C-473, An Act to protect insignia of military orders and military decorations and medals that are of cultural significance for future generations3e lecture et adoption du projet de loi C-473, Loi visant à protéger pour les générations futures les insignes d'ordres militaires et les décorations et médailles militaires revêtant une importance culturelle</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-473" />
+    <TotalYeas>163</TotalYeas>
+    <TotalNays>119</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="197" parliament="40" session="3" sitting="141" date="2011-03-08">
+    <Description>Opposition Motion (Representation in Parliament)Motion de l’opposition (Représentation au Parlement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>34</TotalYeas>
+    <TotalNays>257</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="196" parliament="40" session="3" sitting="141" date="2011-03-08">
+    <Description>Opposition Motion (Representation in Parliament) (amendment)Motion de l’opposition (Représentation au Parlement) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>77</TotalYeas>
+    <TotalNays>214</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="195" parliament="40" session="3" sitting="141" date="2011-03-08">
+    <Description>Opposition Motion (Electoral financing)Motion de l’opposition (Financement électoral)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>139</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="194" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>Private Members' Business M-575 (National Tree Day)Affaires émanant des députés M-575 (Journée nationale de l'arbre)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>269</TotalYeas>
+    <TotalNays>3</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="193" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>2nd reading of Bill C-575, An Act respecting the accountability and enhanced financial transparency of elected officials of First Nations communities2e lecture du projet de loi C-575, Loi concernant l'obligation de rendre des comptes et l'accroissement de la transparence financière des représentants élus des collectivités des Premières Nations</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-575" />
+    <TotalYeas>151</TotalYeas>
+    <TotalNays>128</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="192" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>2nd reading of Bill C-449, An Act regarding free public transit for seniors2e lecture du projet de loi C-449, Loi concernant la gratuité des transports en commun pour les aînés</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-449" />
+    <TotalYeas>105</TotalYeas>
+    <TotalNays>175</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="191" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>Private Members' Business M-559 (Instruction to the Standing Committee on Finance (charitable donations))Affaires émanant des députés M-559 (Instruction au Comité permanent des Finances (dons de charité))</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>281</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="190" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>3rd reading and adoption of Bill C-42, An Act to amend the Aeronautics Act3e lecture et adoption du projet de loi C-42, Loi modifiant la Loi sur l'aéronautique</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-42" />
+    <TotalYeas>246</TotalYeas>
+    <TotalNays>34</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="189" parliament="40" session="3" sitting="137" date="2011-03-02">
+    <Description>Eighth Report of the Standing Committee on Citizenship and ImmigrationHuitième rapport du Comité permanent de la citoyenneté et de l'immigration</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>145</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="188" parliament="40" session="3" sitting="136" date="2011-03-01">
+    <Description>Motion to proceed to Orders of the DayMotion visant à passer à l’Ordre du jour</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="187" parliament="40" session="3" sitting="135" date="2011-02-28">
+    <Description>Opposition Motion (Documents requested by the Standing Committee on Finance)Motion de l’opposition (Documents demandés par le Comité permanent des finances)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>145</TotalYeas>
+    <TotalNays>142</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="186" parliament="40" session="3" sitting="132" date="2011-02-16">
+    <Description>Concurrence at report stage of Bill C-343, An Act to amend the Canada Labour Code and the Employment Insurance Act (family leave)Adoption à l’étape du rapport du projet de loi C-343, Loi modifiant le Code canadien du travail et la Loi sur l'assurance-emploi (congé pour raisons familiales)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-343" />
+    <TotalYeas>151</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="185" parliament="40" session="3" sitting="132" date="2011-02-16">
+    <Description>2nd reading of Bill C-530, An Act to amend the Northwest Territories Act (borrowing limits)2e lecture du projet de loi C-530, Loi modifiant la Loi sur les Territoires du Nord-Ouest (limites d'emprunt)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-530" />
+    <TotalYeas>150</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="184" parliament="40" session="3" sitting="132" date="2011-02-16">
+    <Description>Eighth Report of the Standing Committee on Transport, Infrastructure and CommunitiesHuitième rapport du Comité permanent des transports, de l'infrastructure et des collectivités</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>151</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="183" parliament="40" session="3" sitting="132" date="2011-02-16">
+    <Description>3rd reading and adoption of Bill C-59, An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts3e lecture et adoption du projet de loi C-59, Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d'examen expéditif) et apportant des modifications corrélatives à d'autres lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-59" />
+    <TotalYeas>184</TotalYeas>
+    <TotalNays>105</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="182" parliament="40" session="3" sitting="131" date="2011-02-15">
+    <Description>2nd reading of Bill C-59, An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts2e lecture du projet de loi C-59, Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d'examen expéditif) et apportant des modifications corrélatives à d'autres lois</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-59" />
+    <TotalYeas>283</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="181" parliament="40" session="3" sitting="130" date="2011-02-14">
+    <Description>Opposition Motion (Forillon Park)Motion de l’opposition (Parc Forillon)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>271</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="180" parliament="40" session="3" sitting="130" date="2011-02-14">
+    <Description>Government Business No. 10 (Proceedings on Bill C-59, An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts)Affaires émanant du gouvernement no 10 (Délibérations sur le projet de loi C-59, Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d’examen expéditif) et apportant des modifications corrélatives à d’autres lois)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>180</TotalYeas>
+    <TotalNays>91</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="179" parliament="40" session="3" sitting="130" date="2011-02-14">
+    <Description>Motion for closureMotion de clôture</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>172</TotalYeas>
+    <TotalNays>77</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="178" parliament="40" session="3" sitting="129" date="2011-02-11">
+    <Description>Motion to proceed to Orders of the DayMotion visant à passer à l’Ordre du jour</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>65</TotalYeas>
+    <TotalNays>27</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="177" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Concurrence at report stage of Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm)Adoption à l’étape du rapport du projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>97</TotalYeas>
+    <TotalNays>176</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="176" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="175" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="174" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="173" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="172" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="171" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="170" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="169" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="168" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="167" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm) (report stage amendment)Projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel) (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>95</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="166" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Seventh Report of the Standing Committee on Citizenship and ImmigrationSeptième rapport du Comité permanent de la citoyenneté et de l'immigration</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>284</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="165" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>3rd reading and adoption of Bill C-389, An Act to amend the Canadian Human Rights Act and the Criminal Code (gender identity and gender expression)3e lecture et adoption du projet de loi C-389, Loi modifiant la Loi canadienne sur les droits de la personne et le Code criminel (identité et expression sexuelles)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-389" />
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>135</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="164" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>2nd reading of Bill C-507, An Act to amend the Financial Administration Act (federal spending power)2e lecture du projet de loi C-507, Loi modifiant la Loi sur la gestion des finances publiques (pouvoir fédéral de dépenser)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-507" />
+    <TotalYeas>43</TotalYeas>
+    <TotalNays>240</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="163" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Concurrence at report stage of Bill C-309, An Act establishing the Economic Development Agency of Canada for the Region of Northern OntarioAdoption à l’étape du rapport du projet de loi C-309, Loi portant création de l’Agence de développement économique du Canada pour la région du Nord de l’Ontario</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-309" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="162" parliament="40" session="3" sitting="127" date="2011-02-09">
+    <Description>Opposition Motion (Corporate taxes)Motion de l’opposition (Impôt des entreprises )</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="161" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Concurrence at report stage of Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of PanamaAdoption à l’étape du rapport du projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>189</TotalYeas>
+    <TotalNays>52</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="160" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (report stage amendment)Projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>52</TotalYeas>
+    <TotalNays>189</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="159" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (report stage amendment)Projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>52</TotalYeas>
+    <TotalNays>189</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="158" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (report stage amendment)Projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>52</TotalYeas>
+    <TotalNays>189</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="157" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (report stage amendment)Projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>52</TotalYeas>
+    <TotalNays>188</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="156" parliament="40" session="3" sitting="125" date="2011-02-07">
+    <Description>Concurrence at report stage of Bill C-42, An Act to amend the Aeronautics ActAdoption à l’étape du rapport du projet de loi C-42, Loi modifiant la Loi sur l'aéronautique</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-42" />
+    <TotalYeas>214</TotalYeas>
+    <TotalNays>26</TotalNays>
+    <TotalPaired>22</TotalPaired>
+  </Vote>
+  <Vote number="155" parliament="40" session="3" sitting="122" date="2011-02-02">
+    <Description>Fourth Report of the Standing Committee on Environment and Sustainable DevelopmentQuatrième rapport du Comité permanent de l'environnement et du développement durable</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>276</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="154" parliament="40" session="3" sitting="122" date="2011-02-02">
+    <Description>3rd reading and adoption of Bill S-6, An Act to amend the Criminal Code and another Act3e lecture et adoption du projet de loi S-6, Loi modifiant le Code criminel et une autre loi</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>202</TotalYeas>
+    <TotalNays>74</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="153" parliament="40" session="3" sitting="122" date="2011-02-02">
+    <Description>First Report of the Standing Committee on Public Safety and National SecurityPremier rapport du Comité permanent de la sécurité publique et nationale</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="152" parliament="40" session="3" sitting="118" date="2010-12-15">
+    <Description>Concurrence at report stage of Bill C-429, An Act to amend the Department of Public Works and Government Services Act (use of wood)Adoption à l’étape du rapport du projet de loi C-429, Loi modifiant la Loi sur le ministère des Travaux publics et des Services gouvernementaux (utilisation du bois)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-429" />
+    <TotalYeas>101</TotalYeas>
+    <TotalNays>174</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="151" parliament="40" session="3" sitting="118" date="2010-12-15">
+    <Description>2nd reading of Bill C-510, An Act to amend the Criminal Code (coercion)2e lecture du projet de loi C-510, Loi modifiant le Code criminel (contrainte)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-510" />
+    <TotalYeas>97</TotalYeas>
+    <TotalNays>178</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="150" parliament="40" session="3" sitting="117" date="2010-12-14">
+    <Description>Concurrence at report stage of Bill S-6, An Act to amend the Criminal Code and another ActAdoption à l’étape du rapport du projet de loi S-6, Loi modifiant le Code criminel et une autre loi</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>194</TotalYeas>
+    <TotalNays>74</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="149" parliament="40" session="3" sitting="117" date="2010-12-14">
+    <Description>Bill S-6, An Act to amend the Criminal Code and another Act (report stage amendment)Projet de loi S-6, Loi modifiant le Code criminel et une autre loi (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>137</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="148" parliament="40" session="3" sitting="117" date="2010-12-14">
+    <Description>Bill S-6, An Act to amend the Criminal Code and another Act (report stage amendment)Projet de loi S-6, Loi modifiant le Code criminel et une autre loi (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>137</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="147" parliament="40" session="3" sitting="117" date="2010-12-14">
+    <Description>Bill S-6, An Act to amend the Criminal Code and another Act (report stage amendment)Projet de loi S-6, Loi modifiant le Code criminel et une autre loi (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>136</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="146" parliament="40" session="3" sitting="114" date="2010-12-09">
+    <Description>3rd reading and adoption of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20113e lecture et adoption du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>200</TotalYeas>
+    <TotalNays>68</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="145" parliament="40" session="3" sitting="114" date="2010-12-09">
+    <Description>Concurrence at report stage of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2011Adoption à l’étape du rapport du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>200</TotalYeas>
+    <TotalNays>68</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="144" parliament="40" session="3" sitting="114" date="2010-12-09">
+    <Description>2nd reading of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20112e lecture du projet de loi C-58, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-58" />
+    <TotalYeas>200</TotalYeas>
+    <TotalNays>68</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="143" parliament="40" session="3" sitting="114" date="2010-12-09">
+    <Description>Concurrence in estimatesAdoption d’un budget</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>200</TotalYeas>
+    <TotalNays>68</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="142" parliament="40" session="3" sitting="114" date="2010-12-09">
+    <Description>Opposition Motion (Charter of Rights and Freedoms)Motion de l’opposition (Charte des droits et libertés)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>98</TotalYeas>
+    <TotalNays>172</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="141" parliament="40" session="3" sitting="113" date="2010-12-08">
+    <Description>Concurrence at report stage of Bill C-389, An Act to amend the Canadian Human Rights Act and the Criminal Code (gender identity and gender expression)Adoption à l’étape du rapport du projet de loi C-389, Loi modifiant la Loi canadienne sur les droits de la personne et le Code criminel (identité et expression sexuelles)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-389" />
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="140" parliament="40" session="3" sitting="113" date="2010-12-08">
+    <Description>2nd reading of Bill C-568, An Act to amend the Statistics Act (mandatory long-form census)2e lecture du projet de loi C-568, Loi modifiant la Loi sur la statistique (questionnaire complet de recensement obligatoire)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-568" />
+    <TotalYeas>147</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="139" parliament="40" session="3" sitting="112" date="2010-12-07">
+    <Description>Opposition Motion (West Coast oil tanker traffic)Motion de l’opposition (Circulation des pétroliers sur la côte Ouest)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="138" parliament="40" session="3" sitting="112" date="2010-12-07">
+    <Description>3rd reading and adoption of Bill C-47, A second Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures3e lecture et adoption du projet de loi C-47, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-47" />
+    <TotalYeas>179</TotalYeas>
+    <TotalNays>102</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="137" parliament="40" session="3" sitting="108" date="2010-12-01">
+    <Description>12th Report of the Standing Committee on Industry, Science and Technology12e rapport du Comité permanent de l'industrie, des sciences et de la technologie</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>273</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="136" parliament="40" session="3" sitting="108" date="2010-12-01">
+    <Description>11th Report of the Standing Committee on Industry, Science and Technology11e rapport du Comité permanent de l'industrie, des sciences et de la technologie</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>273</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="135" parliament="40" session="3" sitting="108" date="2010-12-01">
+    <Description>3rd reading and adoption of Bill S-210, An Act to amend the Federal Sustainable Development Act and the Auditor General Act (involvement of Parliament)3e lecture et adoption du projet de loi S-210, Loi modifiant la Loi fédérale sur le développement durable et la Loi sur le vérificateur général (participation du Parlement)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-210" />
+    <TotalYeas>239</TotalYeas>
+    <TotalNays>34</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="134" parliament="40" session="3" sitting="108" date="2010-12-01">
+    <Description>Concurrence at report stage of Bill C-473, An Act to protect insignia of military orders, decorations and medals of cultural significance for future generationsAdoption à l’étape du rapport du projet de loi C-473, Loi visant à protéger pour les générations futures les insignes des ordres, décorations et médailles militaires revêtant une importance culturelle</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-473" />
+    <TotalYeas>160</TotalYeas>
+    <TotalNays>110</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="133" parliament="40" session="3" sitting="108" date="2010-12-01">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>132</TotalYeas>
+    <TotalNays>135</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="132" parliament="40" session="3" sitting="107" date="2010-11-30">
+    <Description>Opposition Motion (Mission in Afghanistan)Motion de l’opposition (Mission en Afghanistan)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>81</TotalYeas>
+    <TotalNays>209</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="131" parliament="40" session="3" sitting="103" date="2010-11-24">
+    <Description>Bill C-304, An Act to ensure secure, adequate, accessible and affordable housing for Canadians (recommittal to a committee)Projet de loi C-304, Loi visant à assurer aux Canadiens un logement sûr, adéquat, accessible et abordable (nouveau renvoi à un comité)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-304" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>132</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="130" parliament="40" session="3" sitting="103" date="2010-11-24">
+    <Description>Motion for the production of papers P-32 (Aqueduct system analysis reports for Canadian Forces Base Valcartier)Motion portant production de documents P-32 (Rapports d'analyses du système d’aqueduc de la base militaire de Valcartier)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>129</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="129" parliament="40" session="3" sitting="102" date="2010-11-23">
+    <Description>Opposition Motion (F-35 stealth fighter jets)Motion de l’opposition (Chasseurs furtifs F-35)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>100</TotalYeas>
+    <TotalNays>170</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="128" parliament="40" session="3" sitting="97" date="2010-11-16">
+    <Description>Bill C-22, An Act respecting the mandatory reporting of Internet child pornography by persons who provide an Internet service (report stage amendment)Projet de loi C-22, Loi concernant la déclaration obligatoire de la pornographie juvénile sur Internet par les personnes qui fournissent des services Internet (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-22" />
+    <TotalYeas>126</TotalYeas>
+    <TotalNays>138</TotalNays>
+    <TotalPaired>16</TotalPaired>
+  </Vote>
+  <Vote number="127" parliament="40" session="3" sitting="97" date="2010-11-16">
+    <Description>Opposition Motion (Potash Corporation)Motion de l’opposition (Potash Corporation)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>263</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>16</TotalPaired>
+  </Vote>
+  <Vote number="126" parliament="40" session="3" sitting="94" date="2010-11-04">
+    <Description>2nd reading of Bill C-47, A second Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures2e lecture du projet de loi C-47, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-47" />
+    <TotalYeas>162</TotalYeas>
+    <TotalNays>78</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="125" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Concurrence at report stage of Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing CountriesAdoption à l’étape du rapport du projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>134</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="124" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="123" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="122" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="121" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="120" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="119" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="118" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="117" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="116" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="115" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="114" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="113" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="112" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="111" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-300" />
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>140</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="110" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Fifth Report of the Standing Committee on Government Operations and EstimatesCinquième rapport du Comité permanent des opérations gouvernementales et des prévisions budgétaires</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>73</TotalYeas>
+    <TotalNays>202</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="109" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Private Members' Business M-518 (Canadian economy)Affaires émanant des députés M-518 (Économie canadienne)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="108" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Fifth Report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with DisabilitiesCinquième rapport du Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>275</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="107" parliament="40" session="3" sitting="88" date="2010-10-27">
+    <Description>Sixth Report of the Standing Committee on Agriculture and Agri-FoodSixième rapport du Comité permanent de l'agriculture et de l'agroalimentaire</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>139</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="106" parliament="40" session="3" sitting="87" date="2010-10-26">
+    <Description>2nd reading of Bill C-42, An Act to amend the Aeronautics Act2e lecture du projet de loi C-42, Loi modifiant la Loi sur l'aéronautique</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-42" />
+    <TotalYeas>241</TotalYeas>
+    <TotalNays>34</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="105" parliament="40" session="3" sitting="87" date="2010-10-26">
+    <Description>2nd reading of Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama2e lecture du projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>199</TotalYeas>
+    <TotalNays>77</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="104" parliament="40" session="3" sitting="87" date="2010-10-26">
+    <Description>2nd reading of Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (previous question)2e lecture du projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (question préalable)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>199</TotalYeas>
+    <TotalNays>77</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="103" parliament="40" session="3" sitting="87" date="2010-10-26">
+    <Description>Opposition Motion (Federal spending power)Motion de l’opposition (Pouvoir fédéral de dépenser)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>43</TotalYeas>
+    <TotalNays>232</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="102" parliament="40" session="3" sitting="83" date="2010-10-20">
+    <Description>2nd reading of Bill C-386, An Act to amend the Canada Labour Code (replacement workers)2e lecture du projet de loi C-386, Loi modifiant le Code canadien du travail (travailleurs de remplacement)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-386" />
+    <TotalYeas>113</TotalYeas>
+    <TotalNays>153</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="101" parliament="40" session="3" sitting="83" date="2010-10-20">
+    <Description>Concurrence at report stage of Bill C-290, An Act to amend the Income Tax Act (tax credit for loss of retirement income)Adoption à l’étape du rapport du projet de loi C-290, Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt pour perte de revenu de retraite)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-290" />
+    <TotalYeas>85</TotalYeas>
+    <TotalNays>186</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="100" parliament="40" session="3" sitting="83" date="2010-10-20">
+    <Description>Bill C-46, An Act to implement the Free Trade Agreement between Canada and the Republic of Panama, the Agreement on the Environment between Canada and the Republic of Panama and the Agreement on Labour Cooperation between Canada and the Republic of Panama (hoist amendment)Projet de loi C-46, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et la République du Panama, de l'Accord sur l'environnement entre le Canada et la République du Panama et de l'Accord de coopération dans le domaine du travail entre le Canada et la République du Panama (amendement de renvoi)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-46" />
+    <TotalYeas>77</TotalYeas>
+    <TotalNays>200</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="99" parliament="40" session="3" sitting="83" date="2010-10-20">
+    <Description>2nd reading of Bill C-39, An Act to amend the Corrections and Conditional Release Act and to make consequential amendments to other Acts2e lecture du projet de loi C-39, Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition et d'autres lois en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-39" />
+    <TotalYeas>277</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="98" parliament="40" session="3" sitting="78" date="2010-10-06">
+    <Description>Private Members' Business M-517 (Instruction to the Standing Committee on Procedure and House Affairs (Oral Questions))Affaires émanant des députés M-517 (Instruction au Comité permanent de la procédure et des affaires de la Chambre (questions orales))</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>235</TotalYeas>
+    <TotalNays>44</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="97" parliament="40" session="3" sitting="78" date="2010-10-06">
+    <Description>Private Members' Business M-517 (Instruction to the Standing Committee on Procedure and House Affairs (Oral Questions)) (amendment)Affaires émanant des députés M-517 (Instruction au Comité permanent de la procédure et des affaires de la Chambre (questions orales)) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>137</TotalYeas>
+    <TotalNays>144</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="96" parliament="40" session="3" sitting="78" date="2010-10-06">
+    <Description>2nd reading of Bill S-6, An Act to amend the Criminal Code and another Act2e lecture du projet de loi S-6, Loi modifiant le Code criminel et une autre loi</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="S-6" />
+    <TotalYeas>208</TotalYeas>
+    <TotalNays>73</TotalNays>
+    <TotalPaired>10</TotalPaired>
+  </Vote>
+  <Vote number="95" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>2nd reading of Bill C-440, An Act to amend the Immigration and Refugee Protection Act (war resisters)2e lecture du projet de loi C-440, Loi modifiant la Loi sur l’immigration et la protection des réfugiés (opposants à la guerre)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-440" />
+    <TotalYeas>136</TotalYeas>
+    <TotalNays>143</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="94" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>Private Members' Business M-514 (Instruction to the Standing Committee on Public Safety and National Security (Criminal Records Act))Affaires émanant des députés M-514 (Instruction au Comité permanent de la sécurité publique et nationale (Loi sur le casier judiciaire))</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>285</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="93" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>Private Members' Business M-513 (Health care system)Affaires émanant des députés M-513 (Système de soins de santé)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>242</TotalYeas>
+    <TotalNays>43</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="92" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>Fifth Report of the Standing Committee on FinanceCinquième rapport du Comité permanent des finances</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>271</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="91" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>Concurrence at report stage of Bill C-308, An Act to amend the Employment Insurance Act (improvement of the employment insurance system)Adoption à l’étape du rapport du projet de loi C-308, Loi modifiant la Loi sur l'assurance-emploi (bonification du régime d'assurance-emploi)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-308" />
+    <TotalYeas>124</TotalYeas>
+    <TotalNays>147</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="90" parliament="40" session="3" sitting="73" date="2010-09-29">
+    <Description>Opposition Motion (Long-form census)Motion de l’opposition (Formulaire détaillé du recensement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>152</TotalYeas>
+    <TotalNays>141</TotalNays>
+    <TotalPaired>2</TotalPaired>
+  </Vote>
+  <Vote number="89" parliament="40" session="3" sitting="71" date="2010-09-27">
+    <Description>2nd reading of Bill C-5, An Act to amend the International Transfer of Offenders Act2e lecture du projet de loi C-5, Loi modifiant la Loi sur le transfèrement international des délinquants</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-5" />
+    <TotalYeas>179</TotalYeas>
+    <TotalNays>60</TotalNays>
+    <TotalPaired>36</TotalPaired>
+  </Vote>
+  <Vote number="88" parliament="40" session="3" sitting="68" date="2010-09-22">
+    <Description>Second Report of the Standing Committee on Public Safety and National SecurityDeuxième rapport du Comité permanent de la sécurité publique et nationale</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>151</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="87" parliament="40" session="3" sitting="68" date="2010-09-22">
+    <Description>2nd reading of Bill C-17, An Act to amend the Criminal Code (investigative hearing and recognizance with conditions)2e lecture du projet de loi C-17, Loi modifiant le Code criminel (investigation et engagement assorti de conditions)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-17" />
+    <TotalYeas>220</TotalYeas>
+    <TotalNays>84</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="86" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>3rd reading and adoption of Bill C-45, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20113e lecture et adoption du projet de loi C-45, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-45" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="85" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Concurrence at report stage of Bill C-45, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2011Adoption à l’étape du rapport du projet de loi C-45, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-45" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="84" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>2nd reading of Bill C-45, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20112e lecture du projet de loi C-45, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-45" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="83" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Concurrence in estimatesAdoption d’un budget</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="82" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>3rd reading and adoption of Bill C-44, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20113e lecture et adoption du projet de loi C-44, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-44" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="81" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Concurrence at report stage of Bill C-44, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2011Adoption à l’étape du rapport du projet de loi C-44, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-44" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="80" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>2nd reading of Bill C-44, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20112e lecture du projet de loi C-44, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-44" />
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="79" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Concurrence in estimatesAdoption d’un budget</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>131</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="78" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Opposition Motion (Prorogation)Motion de l’opposition (Prorogation)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>50</TotalYeas>
+    <TotalNays>189</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="77" parliament="40" session="3" sitting="65" date="2010-06-17">
+    <Description>Opposition Motion (Prorogation) (amendment)Motion de l’opposition (Prorogation) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>98</TotalYeas>
+    <TotalNays>141</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="76" parliament="40" session="3" sitting="64" date="2010-06-16">
+    <Description>2nd reading of Bill C-469, An Act to establish a Canadian Environmental Bill of Rights2e lecture du projet de loi C-469, Loi portant création de la Charte canadienne des droits environnementaux</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-469" />
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="75" parliament="40" session="3" sitting="64" date="2010-06-16">
+    <Description>Concurrence at report stage of Bill C-280, An Act to amend the Employment Insurance Act (qualification for and entitlement to benefits)Adoption à l’étape du rapport du projet de loi C-280, Loi modifiant la Loi sur l'assurance-emploi (droit aux prestations et conditions requises)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-280" />
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="74" parliament="40" session="3" sitting="62" date="2010-06-14">
+    <Description>3rd reading and adoption of Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia3e lecture et adoption du projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>188</TotalYeas>
+    <TotalNays>79</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="73" parliament="40" session="3" sitting="62" date="2010-06-14">
+    <Description>Opposition Motion (Securities Regulation)Motion de l’opposition (Réglementation des valeurs mobilières)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>71</TotalYeas>
+    <TotalNays>192</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="72" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>3rd reading and adoption of Bill C-475, An Act to amend the Controlled Drugs and Substances Act (methamphetamine and ecstasy)3e lecture et adoption du projet de loi C-475, Loi modifiant la Loi réglementant certaines drogues et autres substances (méthamphétamine et ecstasy)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-475" />
+    <TotalYeas>273</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="71" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Concurrence at report stage of Bill C-395, An Act to amend the Employment Insurance Act (labour dispute)Adoption à l’étape du rapport du projet de loi C-395, Loi modifiant la Loi sur l'assurance-emploi (conflit collectif)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-395" />
+    <TotalYeas>139</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="70" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Second Report of the Standing Committee on Industry, Science and TechnologyDeuxième rapport du Comité permanent de l'industrie, des sciences et de la technologie</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>275</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="69" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Concurrence at report stage of Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of ColombiaAdoption à l’étape du rapport du projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>195</TotalYeas>
+    <TotalNays>75</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="68" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia (report stage amendment)Projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>75</TotalYeas>
+    <TotalNays>195</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="67" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia (report stage amendment)Projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>75</TotalYeas>
+    <TotalNays>195</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="66" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia (report stage amendment)Projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>75</TotalYeas>
+    <TotalNays>195</TotalNays>
+    <TotalPaired>12</TotalPaired>
+  </Vote>
+  <Vote number="65" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Time allocation for Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of ColombiaAttribution de temps pour le projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>138</TotalYeas>
+    <TotalNays>121</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="64" parliament="40" session="3" sitting="59" date="2010-06-09">
+    <Description>Motion to proceed to Orders of the DayMotion visant à passer à l’Ordre du jour</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>135</TotalYeas>
+    <TotalNays>116</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="63" parliament="40" session="3" sitting="58" date="2010-06-08">
+    <Description>3rd reading and adoption of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures3e lecture et adoption du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>138</TotalYeas>
+    <TotalNays>126</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="62" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Concurrence at report stage of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measuresAdoption à l’étape du rapport du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>137</TotalYeas>
+    <TotalNays>102</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="61" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="60" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="59" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="58" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="57" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="56" parliament="40" session="3" sitting="57" date="2010-06-07">
+    <Description>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures (amendement à l'étape du rapport)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>62</TotalYeas>
+    <TotalNays>177</TotalNays>
+    <TotalPaired>14</TotalPaired>
+  </Vote>
+  <Vote number="55" parliament="40" session="3" sitting="55" date="2010-06-03">
+    <Description>Time allocation for Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measuresAttribution de temps pour le projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>123</TotalYeas>
+    <TotalNays>85</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="54" parliament="40" session="3" sitting="54" date="2010-06-02">
+    <Description>Motion to proceed to Orders of the DayMotion visant à passer à l’Ordre du jour</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>124</TotalYeas>
+    <TotalNays>129</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="53" parliament="40" session="3" sitting="53" date="2010-06-01">
+    <Description>Opposition Motion (Oil and gas)Motion de l’opposition (Pétrole et gaz )</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>274</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>16</TotalPaired>
+  </Vote>
+  <Vote number="52" parliament="40" session="3" sitting="53" date="2010-06-01">
+    <Description>Opposition Motion (G-8 and G-20 security costs)Motion de l’opposition (Coûts de la sécurité du G-8 et du G-20)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>139</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>16</TotalPaired>
+  </Vote>
+  <Vote number="51" parliament="40" session="3" sitting="52" date="2010-05-31">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>119</TotalYeas>
+    <TotalNays>101</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="50" parliament="40" session="3" sitting="49" date="2010-05-26">
+    <Description>2nd reading of Bill C-501, An Act to amend the Bankruptcy and Insolvency Act and other Acts (pension protection)2e lecture du projet de loi C-501, Loi modifiant la Loi sur la faillite et l’insolvabilité et d’autres lois (protection des prestations)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-501" />
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>111</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="49" parliament="40" session="3" sitting="49" date="2010-05-26">
+    <Description>First Report of the Standing Committee on Official LanguagesPremier rapport du Comité permanent des langues officielles</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>252</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="48" parliament="40" session="3" sitting="44" date="2010-05-11">
+    <Description>Opposition Motion (Quebec’s traditional demands)Motion de l’opposition (Demandes traditionnelles du Québec)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>44</TotalYeas>
+    <TotalNays>232</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="47" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>2nd reading of Bill C-471, An Act respecting the implementation of the recommendations of the Pay Equity Task Force and amending another Act in consequence2e lecture du projet de loi C-471, Loi portant sur la mise en oeuvre des recommandations du Groupe de travail sur l’équité salariale et modifiant une autre loi en conséquence</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-471" />
+    <TotalYeas>148</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="46" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>Concurrence at report stage of Bill C-201, An Act to amend the Canadian Forces Superannuation Act and the Royal Canadian Mounted Police Superannuation Act (deletion of deduction from annuity)Adoption à l’étape du rapport du projet de loi C-201, Loi modifiant la Loi sur la pension de retraite des Forces canadiennes et la Loi sur la pension de retraite de la Gendarmerie royale du Canada (suppression de la déduction sur la pension)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-201" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="45" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>Bill C-201, An Act to amend the Canadian Forces Superannuation Act and the Royal Canadian Mounted Police Superannuation Act (deletion of deduction from annuity) (report stage amendment)Projet de loi C-201, Loi modifiant la Loi sur la pension de retraite des Forces canadiennes et la Loi sur la pension de retraite de la Gendarmerie royale du Canada (suppression de la déduction sur la pension) (amendement à l'étape du rapport)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-201" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="44" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>3rd reading and adoption of Bill C-288, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions)3e lecture et adoption du projet de loi C-288, Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt pour les nouveaux diplômés travaillant dans les régions désignées)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-288" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="43" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>First Report of the Standing Committee on Transport, Infrastructure and CommunitiesPremier rapport du Comité permanent des transports, de l'infrastructure et des collectivités</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>177</TotalYeas>
+    <TotalNays>109</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="42" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>3rd reading and adoption of Bill, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change3e lecture et adoption du projet de loi, Loi visant à assurer l’acquittement des responsabilités du Canada pour la prévention des changements climatiques dangereux</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-311" />
+    <TotalYeas>149</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="41" parliament="40" session="3" sitting="40" date="2010-05-05">
+    <Description>Opposition Motion (Lobbying Act - as amended) (amendment)Motion de l’opposition (Loi sur le lobbying - telle que modifiée) (amendement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>284</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="40" parliament="40" session="3" sitting="35" date="2010-04-28">
+    <Description>Private Members' Business M-423 (Pont de Québec)Affaires émanant des députés M-423 (Pont de Québec)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>141</TotalYeas>
+    <TotalNays>133</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="39" parliament="40" session="3" sitting="35" date="2010-04-28">
+    <Description>2nd reading of Bill C-343, An Act to amend the Canada Labour Code and the Employment Insurance Act (family leave)2e lecture du projet de loi C-343, Loi modifiant le Code canadien du travail et la Loi sur l'assurance-emploi (congé pour raisons familiales)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-343" />
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="38" parliament="40" session="3" sitting="35" date="2010-04-28">
+    <Description>3rd reading and adoption of Bill C-302, An Act to recognize the injustice that was done to persons of Italian origin through their “enemy alien” designation and internment during the Second World War, and to provide for restitution and promote education on Italian-Canadian history3e lecture et adoption du projet de loi C-302, Loi visant à reconnaître les injustices commises à l’égard des personnes d’origine italienne en raison de leur désignation comme « sujets d’un pays ennemi » et de leur internement durant la Seconde Guerre mondiale, à prévoir une indemnisation et à promouvoir l’enseignement de l’histoire italo-canadienne</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-302" />
+    <TotalYeas>147</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="37" parliament="40" session="3" sitting="35" date="2010-04-28">
+    <Description>Opposition Motion (Investment Canada Act)Motion de l’opposition (Loi sur Investissement Canada)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>136</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="36" parliament="40" session="3" sitting="34" date="2010-04-27">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>123</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="35" parliament="40" session="3" sitting="31" date="2010-04-22">
+    <Description>Motion to adjourn the debateMotion visant à ajourner le débat</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>133</TotalYeas>
+    <TotalNays>128</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="34" parliament="40" session="3" sitting="30" date="2010-04-21">
+    <Description>2nd reading of Bill C-384, An Act to amend the Criminal Code (right to die with dignity)2e lecture du projet de loi C-384, Loi modifiant le Code criminel (droit de mourir dignement)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-384" />
+    <TotalYeas>59</TotalYeas>
+    <TotalNays>228</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="33" parliament="40" session="3" sitting="30" date="2010-04-21">
+    <Description>2nd reading of Bill C-470, An Act to amend the Income Tax Act (revocation of registration)2e lecture du projet de loi C-470, Loi modifiant la Loi de l’impôt sur le revenu (révocation d’enregistrement)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-470" />
+    <TotalYeas>280</TotalYeas>
+    <TotalNays>3</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="32" parliament="40" session="3" sitting="30" date="2010-04-21">
+    <Description>2nd reading of Bill C-429, An Act to amend the Department of Public Works and Government Services Act (use of wood)2e lecture du projet de loi C-429, Loi modifiant la Loi sur le ministère des Travaux publics et des Services gouvernementaux (utilisation du bois)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-429" />
+    <TotalYeas>144</TotalYeas>
+    <TotalNays>141</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="31" parliament="40" session="3" sitting="30" date="2010-04-21">
+    <Description>Opposition Motion (Quebec's representation in the House of Commons)Motion de l’opposition (Représentation du Québec à la Chambre des communes)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>45</TotalYeas>
+    <TotalNays>208</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="30" parliament="40" session="3" sitting="30" date="2010-04-21">
+    <Description>Opposition Motion (Quebec's representation in the House of Commons) (amendment)Motion de l’opposition (Représentation du Québec à la Chambre des communes) (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>80</TotalYeas>
+    <TotalNays>208</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="29" parliament="40" session="3" sitting="28" date="2010-04-19">
+    <Description>2nd reading of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures2e lecture du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d’autres mesures</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-9" />
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>120</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="28" parliament="40" session="3" sitting="28" date="2010-04-19">
+    <Description>2nd reading of Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia2e lecture du projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>183</TotalYeas>
+    <TotalNays>78</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="27" parliament="40" session="3" sitting="28" date="2010-04-19">
+    <Description>2nd reading of Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of Colombia (previous question)2e lecture du projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie (question préalable)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>182</TotalYeas>
+    <TotalNays>78</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="26" parliament="40" session="3" sitting="27" date="2010-04-16">
+    <Description>Time allocation for Bill C-2, An Act to implement the Free Trade Agreement between Canada and the Republic of Colombia, the Agreement on the Environment between Canada and the Republic of Colombia and the Agreement on Labour Cooperation between Canada and the Republic of ColombiaAttribution de temps pour le projet de loi C-2, Loi portant mise en oeuvre de l’Accord de libre-échange entre le Canada et la République de Colombie, de l’Accord sur l’environnement entre le Canada et la République de Colombie et de l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-2" />
+    <TotalYeas>50</TotalYeas>
+    <TotalNays>44</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="25" parliament="40" session="3" sitting="25" date="2010-04-14">
+    <Description>2nd reading of Bill C-475, An Act to amend the Controlled Drugs and Substances Act (methamphetamine and ecstasy)2e lecture du projet de loi C-475, Loi modifiant la Loi réglementant certaines drogues et autres substances (méthamphétamine et ecstasy)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-475" />
+    <TotalYeas>287</TotalYeas>
+    <TotalNays>0</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="24" parliament="40" session="3" sitting="25" date="2010-04-14">
+    <Description>2nd reading of Bill C-474, An Act respecting the Seeds Regulations (analysis of potential harm)2e lecture du projet de loi C-474, Loi concernant le Règlement sur les semences (analyse du risque potentiel)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-474" />
+    <TotalYeas>153</TotalYeas>
+    <TotalNays>134</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="23" parliament="40" session="3" sitting="25" date="2010-04-14">
+    <Description>Concurrence at report stage of Bill C-311, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate changeAdoption à l’étape du rapport du projet de loi C-311, Loi visant à assurer l’acquittement des responsabilités du Canada pour la prévention des changements climatiques dangereux</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-311" />
+    <TotalYeas>155</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="22" parliament="40" session="3" sitting="25" date="2010-04-14">
+    <Description>First Report of the Standing Committee on Canadian HeritagePremier rapport du Comité permanent du patrimoine canadien</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>156</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="21" parliament="40" session="3" sitting="25" date="2010-04-14">
+    <Description>Opposition Motion (Environment)Motion de l’opposition (Environnement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>155</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>8</TotalPaired>
+  </Vote>
+  <Vote number="20" parliament="40" session="3" sitting="21" date="2010-03-31">
+    <Description>3rd reading and adoption of Bill C-232, An Act to amend the Supreme Court Act (understanding the official languages)3e lecture et adoption du projet de loi C-232, Loi modifiant la Loi sur la Cour suprême (compréhension des langues officielles)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-232" />
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="19" parliament="40" session="3" sitting="21" date="2010-03-31">
+    <Description>2nd reading of Bill C-444, An Act to amend the Broadcasting Act and the Telecommunications Act (broadcasting and telecommunications policies)2e lecture du projet de loi C-444, Loi modifiant la Loi sur la radiodiffusion et la Loi sur les télécommunications (politiques de radiodiffusion et de télécommunication)</Description>
+    <Decision>Negatived</Decision>
+    <RelatedBill number="C-444" />
+    <TotalYeas>77</TotalYeas>
+    <TotalNays>200</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="18" parliament="40" session="3" sitting="16" date="2010-03-24">
+    <Description>Concurrence at report stage of Bill C-241, An Act to amend the Employment Insurance Act (removal of waiting period)Adoption à l’étape du rapport du projet de loi C-241, Loi modifiant la Loi sur l’assurance-emploi (suppression du délai de carence)</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-241" />
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>142</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="17" parliament="40" session="3" sitting="16" date="2010-03-24">
+    <Description>Ways and Means motion No. 8Motion des voies et moyens no 8</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>143</TotalYeas>
+    <TotalNays>124</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="16" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Address in Reply to the Speech from the Throne (subamendment)Adresse en réponse au discours du Trône (sous-amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>78</TotalYeas>
+    <TotalNays>178</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="15" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>3rd reading and adoption of Bill C-7, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20113e lecture et adoption du projet de loi C-7, Loi portant octroi à Sa Majesté de crédits pour l’administration publique fédérale pendant l’exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-7" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="14" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Concurrence at report stage of Bill C-7, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2011Adoption à l’étape du rapport du projet de loi C-7, Loi portant octroi à Sa Majesté de crédits pour l’administration publique fédérale pendant l’exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-7" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="13" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>2nd reading of Bill C-7, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20112e lecture du projet de loi C-7, Loi portant octroi à Sa Majesté de crédits pour l’administration publique fédérale pendant l’exercice se terminant le 31 mars 2011</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-7" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="12" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Concurrence in Interim SupplyAdoption de crédits provisoires</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>148</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="11" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>3rd reading and adoption of Bill C-6, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20103e lecture et adoption du projet de loi C-6, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2010</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-6" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="10" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Concurrence at report stage of Bill C-6, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2010Adoption à l’étape du rapport du projet de loi C-6, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2010</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-6" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="9" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>2nd reading of BilC-6, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 20102e lecture du projet de loi C-6, Loi portant octroi à Sa Majesté de crédits pour l'administration publique fédérale pendant l'exercice se terminant le 31 mars 2010</Description>
+    <Decision>Agreed To</Decision>
+    <RelatedBill number="C-6" />
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="8" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Concurrence in estimatesAdoption d’un budget</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>114</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="7" parliament="40" session="3" sitting="15" date="2010-03-23">
+    <Description>Opposition Motion (Maternal and child health)Motion de l’opposition (Santé de la mère et de l’enfant)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>138</TotalYeas>
+    <TotalNays>144</TotalNays>
+    <TotalPaired>4</TotalPaired>
+  </Vote>
+  <Vote number="6" parliament="40" session="3" sitting="11" date="2010-03-17">
+    <Description>Opposition Motion (Prorogation)Motion de l’opposition (Prorogation)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>139</TotalYeas>
+    <TotalNays>135</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="5" parliament="40" session="3" sitting="10" date="2010-03-16">
+    <Description>Opposition Motion (Speech from the Throne and Budget)Motion de l’opposition (Discours du Trône et budget)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>45</TotalYeas>
+    <TotalNays>232</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="4" parliament="40" session="3" sitting="10" date="2010-03-16">
+    <Description>Opposition Motion (Government spending)Motion de l’opposition (Dépenses du gouvernement)</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>140</TotalYeas>
+    <TotalNays>137</TotalNays>
+    <TotalPaired>6</TotalPaired>
+  </Vote>
+  <Vote number="3" parliament="40" session="3" sitting="6" date="2010-03-10">
+    <Description>Budgetary policyPolitique budgétaire</Description>
+    <Decision>Agreed To</Decision>
+    <TotalYeas>142</TotalYeas>
+    <TotalNays>132</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="2" parliament="40" session="3" sitting="5" date="2010-03-09">
+    <Description>Budgetary policy (amendment)Politique budgétaire (amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>84</TotalYeas>
+    <TotalNays>214</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+  <Vote number="1" parliament="40" session="3" sitting="5" date="2010-03-09">
+    <Description>Budgetary policy (subamendment)Politique budgétaire (sous-amendement)</Description>
+    <Decision>Negatived</Decision>
+    <TotalYeas>37</TotalYeas>
+    <TotalNays>262</TotalNays>
+    <TotalPaired>0</TotalPaired>
+  </Vote>
+</Votes>
