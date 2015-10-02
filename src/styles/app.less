@@ -12,17 +12,29 @@ body {
     display: block;
     height: 3px;
 }
-.vgrid > .row > div {
+.vgrid > .row div {
     display: inline-block;
-    width: 3px;
+    width: 2px;
     height: 3px;
 }
-.vgrid .vote-yes {
+.vgrid .dissenting {
+    opacity: 0.5;
+}
+.vgrid .party {
+    background-color: #f8f;
+}
+.vgrid .party.B {
+    background-color: #6ac3db;
+}
+.vgrid .party.C {
+    background-color: #00a;
+}
+.vgrid .party.G {
     background-color: #0a0;
 }
-.vgrid .vote-no {
-    background-color: #a00;
+.vgrid .party.N {
+    background-color: rgba(243,112,33,0.93);
 }
-.vgrid .vote-nothing {
-    background-color: #ddd;
+.vgrid .party.L {
+    background-color: #a00;
 }

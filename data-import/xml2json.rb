@@ -23,7 +23,10 @@ def doSessions
     @out[:votes] << {
       date: vote.attributes["date"],
       description: vote.css('Description').text,
-      voters: [],
+      withVotes: "",
+      withParties: "",
+      againstVotes: "",
+      againstParties: "",
     }
     attr = vote.attributes
     voteLabel = "#{attr["parliament"]}-#{attr["session"]}-#{attr["number"]}"
@@ -33,6 +36,11 @@ def doSessions
       vote.css('Participant').each do |participant|
         noteVote voteID, participant
       end
+    end
+    v = @out[:votes][-1]
+    if v[:withVotes].count('y') < v[:againstVotes].count('n')
+      v[:withVotes], v[:withParties], v[:againstVotes], v[:againstParties] =
+        v[:againstVotes], v[:againstParties], v[:withVotes], v[:withParties]
     end
   end
 end
@@ -51,21 +59,26 @@ def noteVote voteID, participant
     end
   yea = participant.css('RecordedVote Yea').text.to_i
   nay = participant.css('RecordedVote Nay').text.to_i
-  vote =
+  voteChr =
     if yea > 0
-      1
+      'y'
     elsif nay > 0
-      -1
+      'n'
     else
-      0
+      '-'
     end
   @out[:voters][voterID] ||= {name: voterName, nVotes: 0}
   @out[:voters][voterID][:nVotes] += 1
-  @out[:votes][voteID][:voters][voterID] = {
-    constituency: cID,
-    party: participant.css('Party').text,
-    vote: vote,
-  }
+  v = @out[:votes][voteID]
+  wowv = nay > 0 ? :againstVotes : :withVotes
+  wowp = nay > 0 ? :againstParties : :withParties
+  while v[wowv].length < voterID
+    v[wowv] += " "
+    v[wowp] += " "
+  end
+  v[wowv][voterID] = voteChr
+  v[wowp][voterID] = participant.css('Party').text[0]
+  # TODO: save constituency cID
 end
 
 doSessions
