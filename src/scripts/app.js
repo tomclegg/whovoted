@@ -67,31 +67,68 @@ var grid = {};
 grid.controller = function() {
     this.vm = {
         popped: m.prop(),
+        session: m.prop({}),
+        sessions: m.prop([]),
     };
     this.popVote = function(vote, voteID) {
         this.vm.popped(vote);
     };
+    this.shouldShowVote = function(vote) {
+        return (this.vm.session().parliament === vote.parliament &&
+                this.vm.session().session === vote.session);
+    };
     this.popped = this.vm.popped;
+    this.setSession = function(s) {
+        this.vm.session(s);
+        this.vm.popped(null);
+    };
+    this.sessions = function() {
+        if (this.db === db()) return this.vm.sessions();
+        this.db = db();
+        var saw = {}, s = [];
+        this.db.votes.map(function(v) {
+            if(!saw[''+v.parliament+' '+v.session]) {
+                saw[''+v.parliament+' '+v.session] = 1;
+                s.push({
+                    parliament: v.parliament,
+                    session: v.session,
+                });
+            }
+        });
+        s = s.sort(function(a,b) {
+            if(a.parliament == b.parliament) return a.session-b.session;
+            return a.parliament-b.parliament;
+        });
+        if(this.vm.session() === {} && s.length > 0)
+            this.vm.session(s[s.length-1]);
+        return this.vm.sessions(s);
+    };
 };
 
 grid.view = function(ctrl) {
     return m('html', [
         m('body', [
-            m('.pop', {
+            m('.ui.pointing.menu', ctrl.sessions().map(function(s) {
+                return m('a.item[href=javascript:;]', {
+                    class: ctrl.vm.session() === s ? 'active' : '',
+                    onclick: ctrl.setSession.bind(ctrl, s),
+                }, 'P'+s.parliament+' S'+s.session);
+            })),
+            !ctrl.popped() ? null : m('.pop.ui.message', {
                 style: {
-                    position: 'absolute',
+                    position: 'fixed',
+                    top: '0px',
                     right: '0px',
                     width: '50%',
                     padding: '1em',
-                    background: '#fff',
                 },
-            }, !ctrl.popped() ? [] : [
-                m('span', ctrl.popped().date),
-                m('br'),
-                m('span', ctrl.popped().description),
+            }, [
+                m('.header', ctrl.popped().date),
+                m('p', ctrl.popped().description),
             ]),
-            m('.vgrid', [
+            m('.vgrid', {key:'grid'}, [
                 db().votes.map(function(vote, voteID) {
+                    if(!ctrl.shouldShowVote(vote)) return;
                     return m.component(gridrow, vote, voteID, ctrl.popVote.bind(ctrl));
                 }),
             ]),

@@ -21,8 +21,11 @@ def doSessions
   end.each do |vote|
     voteID = @out[:votes].length
     @out[:votes] << {
-      date: vote.attributes["date"],
-      description: vote.css('Description').text,
+      parliament: vote.attributes["parliament"].to_s.to_i,
+      session: vote.attributes["session"].to_s.to_i,
+      number: vote.attributes["number"].to_s.to_i,
+      date: vote.attributes["date"].to_s,
+      description: vote.css('Description').text.to_s,
       withVotes: "",
       withParties: "",
       againstVotes: "",
