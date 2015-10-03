@@ -6,7 +6,7 @@ m.request({method: "GET", url: "votes.json"}).then(db);
 
 var gridrow = {};
 
-gridrow.controller = function(vote, voteID, popVote) {
+gridrow.controller = function(vote, voteID, gridCtrl) {
     var a=[], d=[], dTot=0;
     vote.withParties.split('').sort().map(function(p, i) {
         if(p === ' ' || vote.withVotes[i] === '-') return;
@@ -23,7 +23,10 @@ gridrow.controller = function(vote, voteID, popVote) {
         d[d.length-1].n++;
         dTot++;
     });
-    this.popVote = popVote;
+    this.isPopped = function() {
+        return gridCtrl.popped() == this.vm.vote;
+    };
+    this.popThis = gridCtrl.popVote.bind(gridCtrl, vote, voteID);
     this.vm = {
         vote: vote,
         voteID: voteID,
@@ -36,11 +39,12 @@ gridrow.controller = function(vote, voteID, popVote) {
 gridrow.view = function(ctrl) {
     return m('.row', {
         key: ctrl.vm.voteID,
-        onmouseover: ctrl.popVote.bind(ctrl, ctrl.vm.vote, ctrl.vm.voteID),
+        onmouseover: ctrl.popThis,
     }, [
         m('div', {
             style: {
                 width: ''+((200-ctrl.vm.dissentingTot)*2)+'px',
+                backgroundColor: ctrl.isPopped() ? '#888' : '#fff',
             }
         }),
         ctrl.vm.dissenting.map(function(v) {
@@ -87,19 +91,26 @@ grid.controller = function() {
         this.db = db();
         var saw = {}, s = [];
         this.db.votes.map(function(v) {
-            if(!saw[''+v.parliament+' '+v.session]) {
-                saw[''+v.parliament+' '+v.session] = 1;
-                s.push({
+            var k = ''+v.parliament+' '+v.session;
+            if(!saw[k]) {
+                saw[k] = {
                     parliament: v.parliament,
                     session: v.session,
-                });
+                    dateFirst: v.date,
+                    dateLast: v.date,
+                };
+                s.push(saw[k]);
+            } else if(saw[k].dateFirst > v.date) {
+                saw[k].dateFirst = v.date;
+            } else if(saw[k].dateLast < v.date) {
+                saw[k].dateLast = v.date;
             }
         });
         s = s.sort(function(a,b) {
             if(a.parliament == b.parliament) return a.session-b.session;
             return a.parliament-b.parliament;
         });
-        if(this.vm.session() === {} && s.length > 0)
+        if(!this.vm.session()['parliament'] && s.length > 0)
             this.vm.session(s[s.length-1]);
         return this.vm.sessions(s);
     };
@@ -108,31 +119,62 @@ grid.controller = function() {
 grid.view = function(ctrl) {
     return m('html', [
         m('body', [
-            m('.ui.pointing.menu', ctrl.sessions().map(function(s) {
-                return m('a.item[href=javascript:;]', {
-                    class: ctrl.vm.session() === s ? 'active' : '',
-                    onclick: ctrl.setSession.bind(ctrl, s),
-                }, 'P'+s.parliament+' S'+s.session);
-            })),
-            !ctrl.popped() ? null : m('.pop.ui.message', {
-                style: {
-                    position: 'fixed',
-                    top: '0px',
-                    right: '0px',
-                    width: '50%',
-                    padding: '1em',
-                },
-            }, [
-                m('.header', ctrl.popped().date),
-                m('p', ctrl.popped().description),
-            ]),
-            m('.vgrid', {key:'grid'}, [
-                db().votes.map(function(vote, voteID) {
-                    if(!ctrl.shouldShowVote(vote)) return;
-                    return m.component(gridrow, vote, voteID, ctrl.popVote.bind(ctrl));
-                }),
-            ]),
+            grid.viewMenu(ctrl),
+            grid.viewPop(ctrl),
+            grid.viewGrid(ctrl),
         ]),
+    ]);
+}
+
+grid.viewMenu = function(ctrl) {
+    return [
+        m('.ui.pointing.menu', ctrl.sessions().map(function(s) {
+            return m('a.item[href=javascript:;]', {
+                class: ctrl.vm.session() === s ? 'active' : '',
+                onclick: ctrl.setSession.bind(ctrl, s),
+            }, [
+                m('h4', [
+                    'P', s.parliament, ' S', s.session,
+                ]),
+            ]);
+        })),
+        !ctrl.vm.session()['parliament'] ? null : m('.ui.grid.container', m('.ui.grid.row', m('p', [
+            m('h4', [
+                'Parliament ', ctrl.vm.session().parliament,
+                ', Session ', ctrl.vm.session().session,
+            ]),
+            m('p', [
+                'Party votes from ',
+                ctrl.vm.session().dateFirst,
+                ' to ',
+                ctrl.vm.session().dateLast,
+            ]),
+        ]))),
+    ];
+}
+
+grid.viewPop = function(ctrl) {
+    return !ctrl.popped() ? null : m('.pop.ui.message', {
+        style: {
+            position: 'fixed',
+            top: '6em',
+            right: '2em',
+            width: '30%',
+            height: '40em',
+            padding: '1em',
+        },
+    }, [
+        m('.header', ctrl.popped().date),
+        m('p', ctrl.popped().description),
+    ]);
+}
+
+grid.viewGrid = function(ctrl) {
+    return m('.vgrid', {key:'grid'}, [
+        db().votes.map(function(vote, voteID) {
+            if(!ctrl.shouldShowVote(vote)) return;
+            return m.component(gridrow, vote, voteID, ctrl);
+        }),
     ]);
 };
 
