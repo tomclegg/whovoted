@@ -1,6 +1,8 @@
 var m = require('mithril');
 var _ = require('lodash');
 
+var app = {state: {pageY: 0, pageHeight: window.innerHeight}};
+
 var db = m.prop({voters:[],votes:[],constituencies:[]});
 m.request({method: "GET", url: "votes.json"}).then(db);
 
@@ -38,13 +40,13 @@ gridrow.controller = function(vote, voteID, gridCtrl) {
 
 gridrow.view = function(ctrl) {
     return m('.row', {
+        class: ctrl.isPopped() ? 'active' : '',
         key: ctrl.vm.voteID,
         onmouseover: ctrl.popThis,
     }, [
         m('div', {
             style: {
                 width: ''+((200-ctrl.vm.dissentingTot)*2)+'px',
-                backgroundColor: ctrl.isPopped() ? '#888' : '#fff',
             }
         }),
         ctrl.vm.dissenting.map(function(v) {
@@ -70,6 +72,7 @@ var grid = {};
 
 grid.controller = function() {
     this.vm = {
+        offsetTop: 0,
         popped: m.prop(),
         session: m.prop({}),
         sessions: m.prop([]),
@@ -120,8 +123,8 @@ grid.view = function(ctrl) {
     return m('html', [
         m('body', [
             grid.viewMenu(ctrl),
-            grid.viewPop(ctrl),
             grid.viewGrid(ctrl),
+            grid.viewPop(ctrl),
         ]),
     ]);
 }
@@ -154,7 +157,36 @@ grid.viewMenu = function(ctrl) {
 }
 
 grid.viewPop = function(ctrl) {
-    return !ctrl.popped() ? null : m('.pop.ui.message', {
+    var v = ctrl.popped();
+    if(!v) return null;
+
+    var loyalCount = 0, rogues = [], partyVote = {};
+    ['with', 'against'].map(function(withagainst) {
+        v[withagainst+'Parties'].split('').map(function(p) {
+            if(p === ' ' || p === 'I') return;
+            if(!partyVote[p]) partyVote[p] = {'with': 0, 'against': 0};
+            partyVote[p][withagainst]++;
+        });
+    });
+    Object.keys(partyVote).map(function(p) {
+        if(partyVote[p]['with'] >= partyVote[p]['against'])
+            partyVote[p] = 'with';
+        else
+            partyVote[p] = 'against';
+    });
+    ['with', 'against'].map(function(withagainst) {
+        v[withagainst+'Parties'].split('').map(function(p, i) {
+            if(p === ' ' | p === 'I') return;
+            if(partyVote[p] === withagainst) return loyalCount++;
+            var rogue = db().voters[i];
+            rogues.push(m('.item', [
+                m('span', {style:{'float':'left',width:'2em'}}, p),
+                rogue.name,
+            ]));
+        });
+    });
+
+    return m('.pop.ui.message', {
         style: {
             position: 'fixed',
             top: '6em',
@@ -164,18 +196,47 @@ grid.viewPop = function(ctrl) {
             padding: '1em',
         },
     }, [
-        m('.header', ctrl.popped().date),
-        m('p', ctrl.popped().description),
+        m('.header', v.date),
+        m('p', {
+            style: {
+                height: '5em',
+                overflow: 'hidden',
+            },
+        }, v.description),
+        m('.ui.divider'),
+        m('p', 'MPs who voted with their party: ', loyalCount),
+        m('.header', 'MPs who voted against their party: ', rogues.length),
+        m('.ui.list', rogues),
     ]);
 }
 
 grid.viewGrid = function(ctrl) {
-    return m('.vgrid', {key:'grid'}, [
+    var y = 0;
+    return m('.vgrid', {
+        config: function(el) { ctrl.vm.offsetTop = el.offsetTop },
+        key:'grid',
+    }, [
         db().votes.map(function(vote, voteID) {
             if(!ctrl.shouldShowVote(vote)) return;
-            return m.component(gridrow, vote, voteID, ctrl);
+            y++;
+            if((y + 5) * 8 + ctrl.vm.offsetTop < app.state.pageY ||
+               (y - 5) * 8 + ctrl.vm.offsetTop > app.state.pageY + app.state.pageHeight)
+                return m('.row');
+            else
+                return m.component(gridrow, vote, voteID, ctrl);
         }),
     ]);
 };
 
-m.module(document.getElementById('body'), grid);
+document.defaultView.addEventListener("scroll resize", checkScroll);
+document.defaultView.setInterval(checkScroll, 100);
+function checkScroll() {
+    if (app.state.pageY !== document.defaultView.scrollY ||
+        app.state.pageHeight !== document.defaultView.innerHeight) {
+        app.state.pageY = document.defaultView.scrollY;
+        app.state.pageHeight = document.defaultView.innerHeight;
+        m.redraw();
+    }
+}
+
+m.module(document.body, grid);

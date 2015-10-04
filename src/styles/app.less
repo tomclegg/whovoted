@@ -4,21 +4,28 @@
 body {
     background-color: @white;
     color: @black;
+    height: initial !important; /* makes scrollbar glitches, but otherwise window.scrollY is always 0 in chrome */
 }
 
 .vgrid {
 }
 .vgrid > .row {
+    cursor: pointer;
     display: block;
-    height: 3px;
+    height: 8px;
 }
 .vgrid > .row div {
     display: inline-block;
-    width: 2px;
-    height: 3px;
+    height: 8px;
 }
 .vgrid .dissenting {
-    opacity: 0.5;
+    opacity: 0.7;
+}
+.vgrid .row {
+    opacity: 0.7;
+}
+.vgrid .row.active {
+    opacity: 1;
 }
 .vgrid .party {
     background-color: #f8f;
