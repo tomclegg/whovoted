@@ -162,7 +162,7 @@ grid.viewPop = function(ctrl) {
     var v = ctrl.popped();
     if(!v) return null;
 
-    var loyalCount = 0, rogues = [], partyVote = {};
+    var independentCount = 0, loyalCount = 0, rogues = [], partyVote = {};
     ['with', 'against'].map(function(withagainst) {
         v[withagainst+'Parties'].split('').map(function(p) {
             if(p === ' ' || p === 'I') return;
@@ -178,11 +178,13 @@ grid.viewPop = function(ctrl) {
     });
     ['with', 'against'].map(function(withagainst) {
         v[withagainst+'Parties'].split('').map(function(p, i) {
-            if(p === ' ' | p === 'I') return;
+            if(p === ' ') return;
+            if(p === 'I') return independentCount++;
             if(partyVote[p] === withagainst) return loyalCount++;
             var rogue = db().voters[i];
             rogues.push(m('.item', [
-                m('span', {style:{'float':'left',width:'2em'}}, p),
+                m('span.mppartylabel', p),
+                m('.mppartypixel.party', {class:p}),
                 rogue.name,
             ]));
         });
@@ -207,6 +209,7 @@ grid.viewPop = function(ctrl) {
             },
         }, v.description),
         m('.ui.divider'),
+        m('p', 'Independent MPs who voted: ', independentCount),
         m('p', 'MPs who voted with their party: ', loyalCount),
         m('.header', 'MPs who voted against their party: ', rogues.length),
         m('.ui.list', rogues),
