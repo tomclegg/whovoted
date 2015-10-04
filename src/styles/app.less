@@ -8,23 +8,27 @@ body {
 }
 
 .vgrid {
+    display: block;
+    position: relative;
 }
-.vgrid > .row {
+.vgrid > .vgrow {
     cursor: pointer;
     display: block;
     height: 8px;
 }
-.vgrid > .row div {
-    display: inline-block;
+.vgrid * {
+}
+.vgrid > .vgrow div {
+    position: absolute;
     height: 8px;
 }
 .vgrid .dissenting {
     opacity: 0.7;
 }
-.vgrid .row {
+.vgrid .vgrow * {
     opacity: 0.7;
 }
-.vgrid .row.active {
+.vgrid .vgrow.active *, .vgrid .vgrow:hover * {
     opacity: 1;
 }
 .vgrid .party {

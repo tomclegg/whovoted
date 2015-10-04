@@ -39,29 +39,31 @@ gridrow.controller = function(vote, voteID, gridCtrl) {
 };
 
 gridrow.view = function(ctrl) {
-    return m('.row', {
+    var nextX = (200-ctrl.vm.dissentingTot)*2;
+    return m('.vgrow', {
         class: ctrl.isPopped() ? 'active' : '',
         key: ctrl.vm.voteID,
-        onmouseover: ctrl.popThis,
+        onclick: ctrl.popThis,
     }, [
-        m('div', {
-            style: {
-                width: ''+((200-ctrl.vm.dissentingTot)*2)+'px',
-            }
-        }),
         ctrl.vm.dissenting.map(function(v) {
+            var x = nextX, w = v.n*2;
+            nextX += w;
             return m('div', {
                 class: 'dissenting party '+v.p,
                 style: {
-                    width: ''+(v.n*2)+'px',
+                    left: ''+x+'px',
+                    width: ''+w+'px',
                 },
             });
         }),
         ctrl.vm.assenting.map(function(v) {
+            var x = nextX, w = v.n*2;
+            nextX += w;
             return m('div', {
                 class: 'party '+v.p,
                 style: {
-                    width: ''+(v.n*2)+'px',
+                    left: ''+x+'px',
+                    width: ''+w+'px',
                 },
             });
         }),
@@ -222,7 +224,7 @@ grid.viewGrid = function(ctrl) {
             y++;
             if((y + 5) * 8 + ctrl.vm.offsetTop < app.state.pageY ||
                (y - 5) * 8 + ctrl.vm.offsetTop > app.state.pageY + app.state.pageHeight)
-                return m('.row');
+                return m('.vgrow');
             else
                 return m.component(gridrow, vote, voteID, ctrl);
         }),
