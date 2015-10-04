@@ -189,11 +189,12 @@ grid.viewPop = function(ctrl) {
     return m('.pop.ui.message', {
         style: {
             position: 'fixed',
-            top: '6em',
+            top: '10%',
             right: '2em',
             width: '30%',
-            height: '40em',
+            height: '80%',
             padding: '1em',
+            overflowY: 'scroll',
         },
     }, [
         m('.header', v.date),
