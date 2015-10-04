@@ -26,5 +26,5 @@ Generate JSON
 =============
 
 ```
-bundle exec ./xml2json.rb data/session*.xml > data/votes.json
+bundle exec ./xml2json.rb data/session*.xml > ../dist/votes.json
 ```
