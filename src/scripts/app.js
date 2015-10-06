@@ -178,15 +178,20 @@ grid.viewGrid = function(ctrl) {
 var pop = {};
 
 pop.controller = function update(vote) {
-    var independentCount = 0, loyalCount = 0, rogues = [], partyVote = {};
+    var loyalCount = 0, abstained = [], rogues = [], partyVote = {}, sideLabel = {};
 
     if(this.vm && this.vm.vote == vote)
         return;
 
     ['with', 'against'].map(function(withagainst) {
-        vote[withagainst+'Parties'].split('').map(function(p) {
-            if(p === ' ' || p === 'I') return;
+        vote[withagainst+'Parties'].split('').map(function(p, i) {
+            var v = vote[withagainst+'Votes'][i];
+            if(v === '-' || p === ' ' || p === 'I') return;
             if(!partyVote[p]) partyVote[p] = {'with': 0, 'against': 0};
+            if(!sideLabel[withagainst]) {
+                sideLabel[withagainst] = v === 'y' ? 'Yea' : 'Nay';
+                sideLabel[withagainst === 'with' ? 'against' : 'with'] = v === 'y' ? 'Nay' : 'Yea';
+            }
             partyVote[p][withagainst]++;
         });
     });
@@ -198,21 +203,31 @@ pop.controller = function update(vote) {
     });
     ['with', 'against'].map(function(withagainst) {
         vote[withagainst+'Parties'].split('').map(function(p, i) {
-            if(p === ' ') return;
-            if(p === 'I') return independentCount++;
+            var v = vote[withagainst+'Votes'][i];
             if(partyVote[p] === withagainst) return loyalCount++;
-            var rogue = db().voters[i];
-            rogues.push({party: p, name: rogue.name});
+            var mp = db().voters[i];
+            if(v === '-')
+                abstained.push({party: p, name: mp.name});
+            else if(p !== 'I' && v !== ' ')
+                rogues.push({party: p, name: mp.name});
         });
     });
 
     this.vm = {
-        independentCount: independentCount,
         loyalCount: loyalCount,
+        abstained: abstained,
         rogues: rogues,
         vote: vote,
     };
     this.update = update.bind(this);
+}
+
+pop.viewMP = function viewMP(r) {
+    return m('.item', [
+        m('span.mppartylabel', r.party),
+        m('.mppartypixel.party', {class:r.party}),
+        r.name,
+    ]);
 }
 
 pop.view = function(ctrl, vote) {
@@ -236,16 +251,10 @@ pop.view = function(ctrl, vote) {
             },
         }, ctrl.vm.vote.description),
         m('.ui.divider'),
-        m('p', 'Independent MPs who voted: ', ctrl.vm.independentCount),
         m('p', 'MPs who voted with their party: ', ctrl.vm.loyalCount),
         m('.header', 'MPs who voted against their party: ', ctrl.vm.rogues.length),
-        m('.ui.list', ctrl.vm.rogues.map(function(r) {
-            return m('.item', [
-                m('span.mppartylabel', r.party),
-                m('.mppartypixel.party', {class:r.party}),
-                r.name,
-            ]);
-        })),
+        m('.ui.list', ctrl.vm.rogues.map(pop.viewMP)),
+        m('p', 'MPs who abstained: ', ctrl.vm.abstained.map(pop.viewMP)),
     ]);
 }
 
