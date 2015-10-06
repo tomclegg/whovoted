@@ -26,9 +26,9 @@ gridrow.controller = function(vote, voteID, gridCtrl) {
         dTot++;
     });
     this.isPopped = function() {
-        return gridCtrl.popped() == this.vm.vote;
+        return gridCtrl.vm.popped() == this.vm.vote;
     };
-    this.popThis = gridCtrl.popVote.bind(gridCtrl, vote, voteID);
+    this.popThis = gridCtrl.popVote.bind(gridCtrl, vote);
     this.vm = {
         vote: vote,
         voteID: voteID,
@@ -86,10 +86,9 @@ grid.controller = function() {
         return (this.vm.session().parliament === vote.parliament &&
                 this.vm.session().session === vote.session);
     };
-    this.popped = this.vm.popped;
     this.setSession = function(s) {
         this.vm.session(s);
-        this.vm.popped(null);
+        this.popVote(null);
     };
     this.sessions = function() {
         if (this.db === db()) return this.vm.sessions();
@@ -126,7 +125,7 @@ grid.view = function(ctrl) {
         m('body', [
             grid.viewMenu(ctrl),
             grid.viewGrid(ctrl),
-            grid.viewPop(ctrl),
+            ctrl.vm.popped() ? m.component(pop, ctrl.vm.popped()) : null,
         ]),
     ]);
 }
@@ -158,64 +157,6 @@ grid.viewMenu = function(ctrl) {
     ];
 }
 
-grid.viewPop = function(ctrl) {
-    var v = ctrl.popped();
-    if(!v) return null;
-
-    var independentCount = 0, loyalCount = 0, rogues = [], partyVote = {};
-    ['with', 'against'].map(function(withagainst) {
-        v[withagainst+'Parties'].split('').map(function(p) {
-            if(p === ' ' || p === 'I') return;
-            if(!partyVote[p]) partyVote[p] = {'with': 0, 'against': 0};
-            partyVote[p][withagainst]++;
-        });
-    });
-    Object.keys(partyVote).map(function(p) {
-        if(partyVote[p]['with'] >= partyVote[p]['against'])
-            partyVote[p] = 'with';
-        else
-            partyVote[p] = 'against';
-    });
-    ['with', 'against'].map(function(withagainst) {
-        v[withagainst+'Parties'].split('').map(function(p, i) {
-            if(p === ' ') return;
-            if(p === 'I') return independentCount++;
-            if(partyVote[p] === withagainst) return loyalCount++;
-            var rogue = db().voters[i];
-            rogues.push(m('.item', [
-                m('span.mppartylabel', p),
-                m('.mppartypixel.party', {class:p}),
-                rogue.name,
-            ]));
-        });
-    });
-
-    return m('.pop.ui.message', {
-        style: {
-            position: 'fixed',
-            top: '10%',
-            right: '2em',
-            width: '30%',
-            height: '80%',
-            padding: '1em',
-            overflowY: 'scroll',
-        },
-    }, [
-        m('.header', v.date),
-        m('p', {
-            style: {
-                height: '5em',
-                overflow: 'hidden',
-            },
-        }, v.description),
-        m('.ui.divider'),
-        m('p', 'Independent MPs who voted: ', independentCount),
-        m('p', 'MPs who voted with their party: ', loyalCount),
-        m('.header', 'MPs who voted against their party: ', rogues.length),
-        m('.ui.list', rogues),
-    ]);
-}
-
 grid.viewGrid = function(ctrl) {
     var y = 0;
     return m('.vgrid', {
@@ -233,6 +174,80 @@ grid.viewGrid = function(ctrl) {
         }),
     ]);
 };
+
+var pop = {};
+
+pop.controller = function update(vote) {
+    var independentCount = 0, loyalCount = 0, rogues = [], partyVote = {};
+
+    if(this.vm && this.vm.vote == vote)
+        return;
+
+    ['with', 'against'].map(function(withagainst) {
+        vote[withagainst+'Parties'].split('').map(function(p) {
+            if(p === ' ' || p === 'I') return;
+            if(!partyVote[p]) partyVote[p] = {'with': 0, 'against': 0};
+            partyVote[p][withagainst]++;
+        });
+    });
+    Object.keys(partyVote).map(function(p) {
+        if(partyVote[p]['with'] >= partyVote[p]['against'])
+            partyVote[p] = 'with';
+        else
+            partyVote[p] = 'against';
+    });
+    ['with', 'against'].map(function(withagainst) {
+        vote[withagainst+'Parties'].split('').map(function(p, i) {
+            if(p === ' ') return;
+            if(p === 'I') return independentCount++;
+            if(partyVote[p] === withagainst) return loyalCount++;
+            var rogue = db().voters[i];
+            rogues.push({party: p, name: rogue.name});
+        });
+    });
+
+    this.vm = {
+        independentCount: independentCount,
+        loyalCount: loyalCount,
+        rogues: rogues,
+        vote: vote,
+    };
+    this.update = update.bind(this);
+}
+
+pop.view = function(ctrl, vote) {
+    ctrl.update(vote);
+    return m('.pop.ui.message', {
+        style: {
+            position: 'fixed',
+            top: '10%',
+            right: '2em',
+            width: '30%',
+            height: '80%',
+            padding: '1em',
+            overflowY: 'scroll',
+        },
+    }, [
+        m('.header', ctrl.vm.vote.date),
+        m('p', {
+            style: {
+                height: '5em',
+                overflow: 'hidden',
+            },
+        }, ctrl.vm.vote.description),
+        m('.ui.divider'),
+        m('p', 'Independent MPs who voted: ', ctrl.vm.independentCount),
+        m('p', 'MPs who voted with their party: ', ctrl.vm.loyalCount),
+        m('.header', 'MPs who voted against their party: ', ctrl.vm.rogues.length),
+        m('.ui.list', ctrl.vm.rogues.map(function(r) {
+            return m('.item', [
+                m('span.mppartylabel', r.party),
+                m('.mppartypixel.party', {class:r.party}),
+                r.name,
+            ]);
+        })),
+    ]);
+}
 
 document.defaultView.addEventListener("scroll resize", checkScroll);
 document.defaultView.setInterval(checkScroll, 100);
