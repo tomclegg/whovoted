@@ -121,39 +121,57 @@ grid.controller = function() {
 };
 
 grid.view = function(ctrl) {
-    return m('html', [
-        m('body', [
-            grid.viewMenu(ctrl),
-            grid.viewGrid(ctrl),
-            ctrl.vm.popped() ? m.component(pop, ctrl.vm.popped()) : null,
-        ]),
-    ]);
+    return [
+        m('.ui.masthead.vertical.segment', m('.ui.container', [
+            m('h1.ui.header', 'Who voted?'),
+        ])),
+        m('.ui.container', m('.row', [
+            m('.ui.four.column.middle.aligned.grid', {style:{position:'relative'}}, [
+                m('.column', 'This is a visual representation of voting results from the House of Commons.'),
+                m('.ui.vertical.divider', m('i.pointing.right.icon')),
+                m('.column', 'It illustrates the difference between how minority and majority governments work in a multi-party system.'),
+                m('.ui.vertical.divider', m('i.pointing.right.icon')),
+                m('.column', m.trust('With a minority government like P39, at least two parties have to agree in order to change a law. With a majority government like P41, the ruling party&rsquo;s &ldquo;party line&rdquo; is usually the only determining factor.')),
+                m('.ui.vertical.divider', m('i.pointing.right.icon')),
+                m('.column', m.trust('This display also helps us see how often MPs&rsquo; votes depart from their respective party lines.')),
+            ]),
+        ])),
+        grid.viewMenu(ctrl),
+        grid.viewGrid(ctrl),
+        ctrl.vm.popped() ? m.component(pop, ctrl.vm.popped()) : null,
+    ];
 }
 
 grid.viewMenu = function(ctrl) {
     return [
-        m('.ui.pointing.menu', ctrl.sessions().map(function(s) {
+        m('.ui.pointing.borderless.menu', ctrl.sessions().map(function(s) {
             return m('a.item[href=javascript:;]', {
                 class: ctrl.vm.session() === s ? 'active' : '',
                 onclick: ctrl.setSession.bind(ctrl, s),
             }, [
                 m('h4', [
-                    'P', s.parliament, ' S', s.session,
+                    'P', s.parliament, '.', s.session,
                 ]),
             ]);
-        })),
-        !ctrl.vm.session()['parliament'] ? null : m('.ui.grid.container', m('.ui.grid.row', m('p', [
-            m('h4', [
-                'Parliament ', ctrl.vm.session().parliament,
-                ', Session ', ctrl.vm.session().session,
+        }), [
+            m('.item.grid-legend', [
+                m('i.arrow.left.icon'),
+                'Click to choose a parliament session',
             ]),
-            m('p', [
-                'Party votes from ',
+        ]),
+        !ctrl.vm.session()['parliament'] ? null : [
+            m('p.grid-legend', [
+                '(',
                 ctrl.vm.session().dateFirst,
                 ' to ',
                 ctrl.vm.session().dateLast,
+                ')',
+                m('br'),
+                'Click to show who voted',
+                m('br'),
+                m('i.arrow.down.icon'),
             ]),
-        ]))),
+        ],
     ];
 }
 
