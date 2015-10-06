@@ -178,7 +178,7 @@ grid.viewGrid = function(ctrl) {
 var pop = {};
 
 pop.controller = function update(vote) {
-    var loyalCount = 0, abstained = [], rogues = [], partyVote = {}, sideLabel = {};
+    var loyalCount = 0, abstained = [], rogues = [], sideCount = {'with': 0, 'against': 0}, partyCount = {}, partyVote = {}, sideLabel = {};
 
     if(this.vm && this.vm.vote == vote)
         return;
@@ -186,17 +186,18 @@ pop.controller = function update(vote) {
     ['with', 'against'].map(function(withagainst) {
         vote[withagainst+'Parties'].split('').map(function(p, i) {
             var v = vote[withagainst+'Votes'][i];
-            if(v === '-' || p === ' ' || p === 'I') return;
-            if(!partyVote[p]) partyVote[p] = {'with': 0, 'against': 0};
+            if(v === '-' || v === ' ') return;
+            if(!partyCount[p]) partyCount[p] = {'with': 0, 'against': 0};
+            partyCount[p][withagainst]++;
+            sideCount[withagainst]++;
             if(!sideLabel[withagainst]) {
                 sideLabel[withagainst] = v === 'y' ? 'Yea' : 'Nay';
                 sideLabel[withagainst === 'with' ? 'against' : 'with'] = v === 'y' ? 'Nay' : 'Yea';
             }
-            partyVote[p][withagainst]++;
         });
     });
-    Object.keys(partyVote).map(function(p) {
-        if(partyVote[p]['with'] >= partyVote[p]['against'])
+    Object.keys(partyCount).map(function(p) {
+        if(partyCount[p]['with'] >= partyCount[p]['against'])
             partyVote[p] = 'with';
         else
             partyVote[p] = 'against';
@@ -207,8 +208,8 @@ pop.controller = function update(vote) {
             if(partyVote[p] === withagainst) return loyalCount++;
             var mp = db().voters[i];
             if(v === '-')
-                abstained.push({party: p, name: mp.name});
-            else if(p !== 'I' && v !== ' ')
+                return abstained.push({party: p, name: mp.name});
+            if(v !== ' ' && p !== 'I')
                 rogues.push({party: p, name: mp.name});
         });
     });
@@ -217,9 +218,20 @@ pop.controller = function update(vote) {
         loyalCount: loyalCount,
         abstained: abstained,
         rogues: rogues,
+        partyCount: partyCount,
+        sideCount: sideCount,
+        sideLabel: sideLabel,
         vote: vote,
     };
     this.update = update.bind(this);
+}
+
+pop.viewVoteCount = function viewMP(party, n) {
+    return m('.item', [
+        m('span.mppartylabel', party),
+        m('.mppartypixel.party', {class:party}),
+        m('.votecount', ''+(n>0?n:'-')),
+    ]);
 }
 
 pop.viewMP = function viewMP(r) {
@@ -251,10 +263,28 @@ pop.view = function(ctrl, vote) {
             },
         }, ctrl.vm.vote.description),
         m('.ui.divider'),
+        m('table.votebyparty', [
+            m('thead', [
+                m('tr', ['against', 'with'].map(function(side) {
+                    return m('th', {style: {width: '7em'}}, ctrl.vm.sideLabel[side]);
+                })),
+            ]),
+            m('tbody', Object.keys(ctrl.vm.partyCount).sort().map(function(p) {
+                return m('tr', ['against', 'with'].map(function(side) {
+                    return m('td', pop.viewVoteCount(p, ctrl.vm.partyCount[p][side]));
+                }));
+            })),
+            m('tfoot', m('tr', ['against', 'with'].map(function(side) {
+                return m('td', [
+                    m('.votecount', ''+(0+ctrl.vm.sideCount[side])),
+                ]);
+            }))),
+        ]),
         m('p', 'MPs who voted with their party: ', ctrl.vm.loyalCount),
         m('.header', 'MPs who voted against their party: ', ctrl.vm.rogues.length),
         m('.ui.list', ctrl.vm.rogues.map(pop.viewMP)),
-        m('p', 'MPs who abstained: ', ctrl.vm.abstained.map(pop.viewMP)),
+        m('p', 'MPs who abstained: ', ctrl.vm.abstained.length),
+        m('.ui.list', ctrl.vm.abstained.map(pop.viewMP)),
     ]);
 }
 
