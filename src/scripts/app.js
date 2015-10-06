@@ -226,14 +226,6 @@ pop.controller = function update(vote) {
     this.update = update.bind(this);
 }
 
-pop.viewVoteCount = function viewMP(party, n) {
-    return m('.item', [
-        m('span.mppartylabel', party),
-        m('.mppartypixel.party', {class:party}),
-        m('.votecount', ''+(n>0?n:'-')),
-    ]);
-}
-
 pop.viewMP = function viewMP(r) {
     return m('.item', [
         m('span.mppartylabel', r.party),
@@ -265,19 +257,23 @@ pop.view = function(ctrl, vote) {
         m('.ui.divider'),
         m('table.votebyparty', [
             m('thead', [
-                m('tr', ['against', 'with'].map(function(side) {
-                    return m('th', {style: {width: '7em'}}, ctrl.vm.sideLabel[side]);
+                m('tr', m('th'), ['against', 'with'].map(function(side) {
+                    return m('th.right', ctrl.vm.sideLabel[side]);
                 })),
             ]),
             m('tbody', Object.keys(ctrl.vm.partyCount).sort().map(function(p) {
-                return m('tr', ['against', 'with'].map(function(side) {
-                    return m('td', pop.viewVoteCount(p, ctrl.vm.partyCount[p][side]));
-                }));
-            })),
-            m('tfoot', m('tr', ['against', 'with'].map(function(side) {
-                return m('td', [
-                    m('.votecount', ''+(0+ctrl.vm.sideCount[side])),
+                return m('tr', [
+                    m('td', [
+                        m('span.mppartylabel', p),
+                        m('.mppartypixel.party', {class: p}),
+                    ]),
+                    ['against', 'with'].map(function(side) {
+                        return m('td.right', ctrl.vm.partyCount[p][side] || '-');
+                    }),
                 ]);
+            })),
+            m('tfoot', m('tr', m('td'), ['against', 'with'].map(function(side) {
+                return m('td.right', ''+(0+ctrl.vm.sideCount[side]));
             }))),
         ]),
         m('p', 'MPs who voted with their party: ', ctrl.vm.loyalCount),
