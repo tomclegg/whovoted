@@ -254,17 +254,7 @@ pop.viewMP = function viewMP(r) {
 
 pop.view = function(ctrl, vote) {
     ctrl.update(vote);
-    return m('.pop.ui.message', {
-        style: {
-            position: 'fixed',
-            top: '10%',
-            right: '2em',
-            width: '30%',
-            height: '80%',
-            padding: '1em',
-            overflowY: 'scroll',
-        },
-    }, [
+    return m('#pop.ui.message', [
         m('.header', ctrl.vm.vote.date),
         m('p', {
             style: {
