@@ -1,5 +1,4 @@
 var m = require('mithril');
-var _ = require('lodash');
 
 var app = {state: {pageY: 0, pageHeight: window.innerHeight}};
 
@@ -138,6 +137,15 @@ grid.view = function(ctrl) {
         ])),
         grid.viewMenu(ctrl),
         grid.viewGrid(ctrl),
+        m('.footer', [
+            m('.ui.clearing.divider'),
+            m('.ui.container', m('.row', m('p', [
+                m('i.database.icon'),
+                m('a[href=http://www.parl.gc.ca/LegisInfo/Home.aspx?language=E&ParliamentSession=41-2]', 'parl.gc.ca'),
+                m('i.fork.icon'),
+                m('a[href=https://github.com/tomclegg/whovoted]', 'github.com/tomclegg/whovoted'),
+            ]))),
+        ]),
         ctrl.vm.popped() ? m.component(pop, ctrl.vm.popped()) : null,
     ];
 }
